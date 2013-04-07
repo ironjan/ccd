@@ -1,0 +1,870 @@
+<resources>
+
+    <string name="appName">CCD</string>
+    <string name="title_p_detail">P Detail</string>
+    <string name="title_p_list">Ps</string>
+    <string name="second_tab_content">second tab content</string>
+    <string name="blindtext">Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte! Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern? Oder gehörten die Schritte hinter ihm zu einem der unzähligen Gesetzeshüter dieser Stadt, und die stählerne Acht um seine Handgelenke würde gleich zuschnappen? Er konnte die Aufforderung stehen zu bleiben schon hören. Gehetzt sah er sich um. Plötzlich erblickte er den schmalen Durchgang. Blitzartig drehte er sich nach rechts und verschwand zwischen den beiden Gebäuden. Beinahe wäre er dabei über den umgestürzten Mülleimer gefallen, der mitten im Weg lag. Er versuchte, sich in der Dunkelheit seinen Weg zu ertasten und erstarrte: Anscheinend gab es keinen anderen Ausweg aus diesem kleinen Hof als den Durchgang, durch den er gekommen war. Die Schritte wurden lauter und lauter, er sah eine dunkle Gestalt um die Ecke biegen. Fieberhaft irrten seine Augen durch die nächtliche Dunkelheit und suchten einen Ausweg. War jetzt wirklich alles vorbei, waren alle Mühe und alle Vorbereitungen umsonst? Er presste sich ganz eng an die Wand hinter ihm und hoffte, der Verfolger würde ihn übersehen, als plötzlich neben ihm mit kaum wahrnehmbarem Quietschen eine Tür im nächtlichen Wind hin und her schwang. Könnte dieses der flehentlich herbeigesehnte Ausweg aus seinem Dilemma sein? Langsam bewegte er sich auf die offene Tür zu, immer dicht an die Mauer gepresst. Würde diese Tür seine Rettung werden?</string>
+    <string name="p_detail_is_null">p_detail is null</string>
+
+    <!-- About Grades: Meaning -->
+    <string name="aboutGradesMeaningHL">Bedeutung der Grade</string>
+    <string name="aboutGradesMeaningContent">
+<![CDATA[<p>Die Grade drücken keinen Wert aus. Wer am blauen Grad arbeitet ist nicht \"besser\" oder \"weiter\" als jemand, der am orangen Grad arbeitet. Die Grade sind nur ein didaktisches Hilfsmittel, um die Gesamtheit des Wertesystems \"einfacher verdaubar\" zu machen. Die vielen Bausteine lassen sich schlicht in kleinen Happen besser aneignen, als in einem Anlauf.</p>
+
+<p>Deshalb ist es uns auch wichtig, dass jeder Interessent mit dem roten Grad beginnt. Aus didaktischen Gründen ist es der beste Einstieg - auch wenn man meint, man würde doch auch schon in der täglichen Arbeit andere Werte umsetzen. Denn unabhängig von der heutigen Projektpraxis ist es sicherlich neu, sich so bewusst mit Prinzipien und Praktiken auseinanderzusetzen. Insbesondere die tägliche Reflektion darüber ist wahrscheinlich noch nicht Gewohnheit. Um sie im Kontext \"einfacher\" Bausteine zu üben, eignet sich dann der rote Grad.</p>
+
+<p>Auch wenn wir verstehen, dass jeder, der das Wertesystem zum ersten Mal sieht, abhaken will, was er davon schon beherzigt, so ist das letztlich unerheblich. Die bewusste Praxis im Rahmen des Wertesystems ist immer neu - und sollte auch wer meint, er \"verdiene\" eigentlich den weißen Grad, beim roten Grad beginnen. Es geht eben nicht um \"Verdienst\", sondern um Iterationen und kleine Happen. Grade sind Gucklöcher auf das große Ganze.</p>
+
+<p>Wer das erste Armband bestellt, bestelle also am besten das rote Armband.</p>]]>
+    </string>
+
+    <!-- About Grades: Training -->
+    <string name="aboutGradesTrainingHL">Fortbildung</string>
+    <string name="aboutGradesTrainingContent">
+<![CDATA[<p>Das Wertesystem und die Bausteine mögen starr aussehen, wie in Stein gemeißelt. Das ist es aber nicht. Es ist immer nur vorläufig, bis wir bzw. die Community meint, dass etwas verändert werden sollte. Noch viel stärker im Fluss ist jedoch die Welt der Werkzeuge und Materialien, auf die das Wertesystem anzuwenden ist. Programmiersprachen, IDEs, Frameworks, Plattformen, Serverprodukte verändern sich ständig, kommen hinzu, fallen weg. Tendenziell wird das, was potenziell gewusst und gekonnt werden könnte immer nur mehr, viel mehr. Früher war man gut bedient mit einer Programmiersprache und deren Standardbibliothek. Heute reicht das schon lange nicht mehr.</p>
+
+<p>Da Professionalität bedeutet, informierte Entscheidungen zu treffen, kommt der CCD nicht umhin, sich ständig fortzubilden. Wahrscheinlich ist die Softwareentwicklung sogar die Branche mit der größten Notwendigkeit dazu. Aspekte der Fortbildung sind daher Bestandteile mehrerer Grade (Orange, Gelb, Grün). Damit wollen wir deutlich machen, dass Fortbildung immer ein Thema ist, aber eben auch einer Entwicklung folgen muss. Von 0 auf 100 bei der Fortbildung in einem Grad ist nicht möglich. Nicht nur Softwareentwicklung braucht Übung, auch die Fortbildung will gelernt sein.</p>
+
+<p>In den Graden geht es aber nur um unterschiedliche Fortbildungsformen (Lesen, Networking, Veröffentlichen). Wieviel Zeit ein CCD für sie aufwenden sollte, geben sie nicht vor. Der Grund: das ist aus unserer Sicht nicht formspezifisch. Fortbildung sollte unabhängig von der Form mindestens 20% der Arbeitszeit ausmachen.</p>
+
+<p>Ja, das meinen wir ehrlich. 20% der Arbeitszeit sollte Fortbildungszeit sein. Pro 5-Tage-Woche also 1 Tag nur für die Fortbildung. Nicht weniger. Google macht vor, dass das funktioniert: \"Das heißt, jeder Mitarbeiter darf 20 Prozent seiner Arbeitszeit mit Projekten verbringen, die nicht direkt mit seiner Aufgabe zu tun haben. Das wird nicht kontrolliert.\" (<a href="http://www.abendblatt.de/wirtschaft/article887630/Kostenloses-Essen-und-geschenkte-Arbeitszeit-fuer-die-Mitarbeiter.htm%C2%A0">Interview mit Nordeuropa-Chef Phillip Schindler von Google im Hamburger Abendblatt, 7.11.2007</a>)</p>
+
+<p>20% klingt dennoch sehr viel. Aber keine Angst, Fortbildung ist gar nicht so schlimm für den, der sie bezahlen soll. Denn Fortbildung ist einiges nicht, was man zunächst damit verbindet:</p>
+
+<ul>
+<li>Fortbildung ist kein Urlaub</li>
+<li>Fortbildung ist keine Abwesenheit vom Arbeitsplatz</li>
+<li>Fortbildung bedeutet nicht, dass kein Nutzen für Projekte gestiftet wird</li>
+<li>Fortbildung braucht nicht zwangsläufig ein hohes Budget für Schulungen oder Software</li>
+</ul>
+
+<p>Fortbildung bedeutet vor allem Spielraum für Fehler. Anders formuliert: Während 20% der Arbeitszeit sollte ein professioneller Softwareentwickler keine Angst vor Fehlern haben. Das bedeutet im Extremfall, dass die 20% ohne direkten Gewinn für ein Projekt sind. Vergleichen Sie die Fortbildung mit der Übungszeit eines Musikers. Auf der Bühne muss der Musiker performen, tunlichst ohne Fehler. Um sein Können auf gleichem Stand zu halten oder sogar zu verbessern, muss ein Musiker jedoch üben. Dabei sind Fehler ausdrücklich zugelassen, da sonst keine Weiterentwicklung möglich wäre. Es bedarf also zweier unterschiedlicher \"Betriebsarten\".</p>
+
+<p>Erst auf der Basis solchen Spielraums für Fehler geht es darum, wie der ausgefüllt werden könnte. Einziger Anspruch an mögliche Inhalte sollte sein, dass ein Bezug zur Arbeit erkennbar ist. Wer die 20% Spielraum für die private online Immobiliensuche oder Sport im unternehmenseigenen Fitnesscenter nutzt, bildet sich nicht wirklich fort.</p>
+
+<p>Beispiele für Fortbildungsinhalte sind:</p>
+
+<ul>
+<li>Studium von Fachpublikationen (online/offline, Blog/Zeitschrift/Buch/Video)</li>
+<li>Ausprobieren von Gelesenem</li>
+<ul>
+<li>Technologien</li>
+<li>Verfahren</li>
+<li>Werkzeuge</li>
+</ul>
+<li>Besuch von Fachveranstaltungen (Schulung, Konferenz, Community-Event)</li>
+<li>Publikation eigenen Fachwissens</li>
+<ul>
+<li>in unternehmenseigenen Medien (z.B. Projekt-Wiki)</li>
+<li>auf öffentlichen Plattformen (Blog, Zeitschrift, Buch, Fachkonferenz)</li>
+</ul>
+</ul>
+
+<p>Ob Lektüre, Experimente oder Publikationen direkt mit einem Projekt im Zusammenhang stehen, ist nachrangig. Sie können, müssen aber nicht. Ein CCD kann eine Technologie mit Blick auf das Firmenprojekt evaluieren oder nur aus allgemeinem Interesse. Nutzen für das Projekt entsteht in beiden (!) Fällen. Einmal unmittelbar, einmal mittelbar. Denn jede Kenntnis einer Technologie oder eines Verfahrens, auch wenn der Einsatz im Projekt noch nicht absehbar ist, erweitert den Horizont, macht also erfahrener, optionenreicher.</p>
+
+<p>Hinweis für Entscheider: Entwickler, die sich kontinuierlich fortbilden, stellen einen Wert dar. Sie sind erfahrener, innovativer, flexibler. Das dient Ihren Produkten.</p>
+
+<p>Hinweis für Softwareentwickler: Wer sich fortbildet wird wertvoller. Er gewinnt an Erfahrung, ist nicht in einer Nische festgenagelt, gibt keine Angriffsfläche für Hype ab. Das dient der \"Employability\".</p>]]>
+    </string>
+
+    <!-- About Grade: Practice -->
+    <string name="aboutGradesPracticeHL">Übungspraxis</string>
+    <string name="aboutGradesPracticeContent">
+<![CDATA[<p>Clean Code Developer zu werden braucht Zeit. Wir glauben, dass es pro Grad mit nicht weniger als 21 Tagen getan ist. Denn 21 Tage (oder 3 Wochen) - so sagt die Psychologie - brauchen Menschen, um Neues oder allgemein Veränderungen als Gewohnheiten in ihr Leben zu integrieren.</p>
+
+<p>Wer auf einer CCD-Stufe arbeitet, soll deshalb so vorgehen: Am Abend jedes Arbeitstages reflektiert der CCD darüber, ob er die Prinzipien seines Grades (und der darunter liegenden) eingehalten hat. Wenn ja, behält er das Armband an dem Arm, an dem es ist. Wenn nein, wechselt er das Armband jedoch zum anderen Arm! Das ist wichtig, denn durch den Akt des Wechselns macht sich der Entwickler bewusst, dass er und welche Prinzipien er noch besser verinnerlichen muss.</p>
+
+<p>Sobald ein Entwickler dann auf einer Stufe 21 Tage ohne Wechseln des Armbands gearbeitet hat, kann er den Grad als gemeistert ansehen, zum nächsten fortschreiten und dessen Armband überstreifen.</p>
+
+<p>Natürlich gibt es keine formale Kontrolle, ob während eines Tages wirklich alle Prinzipien beachtet worden sind. Wir stellen es also der Ehrlichkeit jedes Entwicklers sich und der CCD-Community gegenüber anheim, darüber nach bestem Wissen und Gewissen zu urteilen. Da kein Grad "besser" oder "schlechter" ist als ein anderer, lohnt sich Mogelei ohnehin nicht. Wir gehen davon aus, dass Entwickler, die den weißen Grad gemeistert haben, wieder beim roten Grad beginnen. So demonstrieren sie ihre Überzeugung, dass Softwareentwicklung ständiges Lernen ist.</p>]]>
+    </string>
+
+    <!-- Red Grade -->
+    <string name="redGradeName">Roter Grad</string>
+
+    <!-- Don't repeat yourself -->
+    <string name="dryName">Don\'t repeat yourself (DRY)</string>
+    <string name="dryWhy">Jede Doppelung von Code oder auch nur Handgriffen leistet Inkonsistenzen und Fehlern Vorschub.</string>
+    <string name="dryDescription">Das DRY-Prinzip lautet: <b>Don\'t Repeat Yourself</b> – Wiederhole dich nicht. Es gilt seit den Anfängen der Softwareentwicklung – sonst gäbe es keine Unterprogramme und keine Datennormalisierung. Dennoch ist es wahrscheinlich das am meisten missachtete Prinzip. Denn nichts ist einfacher, als Code durch Copy&amp;Paste zu wiederholen. Gerade dann, wenn es mal schnell gehen soll, passiert das allzuoft.\n
+\n
+Clean Code Developer üben sich im roten Grad daher darin, dieses Prinzip stets zu beachten. Sie sind sich bewusst, wann sie Code oder andere Artefakte wiederholen. Sie erkennen solche Wiederholungen, die sie selbst oder andere erzeugt haben. Sie bereinigen Wiederholungen durch Refaktorisierungen – wenn keine anderen Prinzipien oder Beschränkungen dagegen sprechen.</string>
+
+    <!-- Keep it simple and stupid -->
+    <string name="kissName">Keep it simple, stupid (KISS)</string>
+    <string name="kissWhy">Wer mehr tut als das Einfachste, lässt den Kunden warten und macht die Lösung unnötig kompliziert.</string>
+    <string name="kissDescription">Oder um es mit Albert Einsteins Worten zu sagen: \"Alles sollte so einfach wie möglich gemacht werden, aber nicht einfacher.\". Für die Evolvierbarkeit des Codes ist zwingende Voraussetzung, dass der Code verständlich ist. Eine einfache, klare und leicht verständliche Lösung sollte daher immer bevorzugt werden. Wenn man seinen eigenen Code nach kurzer Zeit schon nicht mehr versteht, sollten die Alarmglocken klingen. Noch wichtiger aber ist, dass auch andere Entwickler den Code schnell verstehen können. Dabei helfen regelmäßige Reviews und Pair Programming. Sie dienen der Kontrolle, ob tatsächlich die einfachste Lösung verwendet wurde.\n
+\n
+Gerade in technischen Details steckt die Versuchung, eine komplizierte Lösung anzustreben. Das Bekannte, naheliegende ist manchmal zu \"langweilig\" – und schon hat sich eine komplizierte Lösung eingeschlichen. Wenn die einfache Lösung auch funktioniert, sollte ihr Vorrang gewährt werden. Das gleiche gilt für Datenstrukturen. Wenn ein IEnumerable reicht, sollte keine ICollection oder sogar IList verwendet werden.</string>
+
+    <!-- Beware of optimization -->
+    <string name="optName">Vorsicht vor Optimierungen!</string>
+    <string name="optWhy">Optimierungen kosten immer viel Aufwand. Wer Vorsicht walten lässt, spart oft wertvolle Ressourcen für das, was dem Kunden wirklich nützt.</string>
+    <string name="optDescription">Im Vordergrund steht immer die Verständlichkeit von Code. Optimierter Code ist aber oft alles andere als lesbar. Indem er auf das absolut Notwendige in kürzester Form reduziert ist, mag er zwar die funktionalen und nicht funktionalen Anforderungen des Kunden erfüllen – doch er spiegelt sie meist nicht mehr verständlich wider. Das ist kontraproduktiv im Sinne der meist gewünschten Langlebigkeit einer Software. Donald Knuth schrieb bereits 1974: \"<b>We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.</b>" (Knuth, Donald. Structured Programming with go to Statements, ACM Journal Computing Surveys, Vol 6, No. 4, Dec. 1974. p.268.)\n
+\n
+Die Pfadfinderregel ist also nicht so gemeint, dass immer weiter nach Codeoptimierungen gestrebt werden sollte. Sie bezieht sich vielmehr auf deren Gegenteil: Verständlichkeit und Evolvierbarkeit.\n
+\n
+Wenn es dem Clean Code Developer also in den Fingern zuckt, weil er denkt, er könne doch noch ein Quäntchen Performance durch eine Optimierung herausholen, dann sollte er mindestens zweimal überlegen. Zum einen würde er dadurch die Verständlichkeit verschlechtern, zum anderen aber ist es wahrscheinlich, dass solche Optimierung aus mehreren Gründen gar nicht nötig ist. Ist die Performanceschwäche nicht nur punktuell und ein Sonderfall, wird sich die nächste größere Refaktorisierung ihrer wahrscheinlich ohnehin annehmen, denn dann liegt ihr ein grundsätzliches Strukturproblem zugrunde. Oder die nächste Hardwaregeneration bügelt den Performanceknick aus. Oder der Kunde fühlt sich durch ihn gar nicht gestört. Ohnehin muss der Kunde die Forderung nach der Optimierung gestellt haben. Keine Codeveränderung ohne vom Kunden erwarteten Nutzen. Denn nur für ihn ist er bereit zu zahlen.\n
+\n
+Der Regel, sich im Zweifelsfall gegen Optimierungen zu entscheiden, liegt somit eine noch fundamentalere zugrunde: YAGNI - <b>You ain\'t gonna need it</b>. Sie ist in ihrer vollen Ausprägung allerdings erst Bestandteil des blauen Grades.\n
+\n
+PS: Wenn denn entgegen allen Warnungen und Bedenken gerade eine Performanceoptimierung unumgänglich ist, dann sollte sie immer nur aufgrund einer detaillierten Analyse mit einem Profiler begonnen werden. Denn nur wer mit einem Profiler nachvollziehbar Performance-Engpässe lokalisiert hat, kann während und nach der Optimierung prüfen, ob und inwiefern er sie geweitet hat.</string>
+    <string name="optInfos"><![CDATA[<a href="http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf">Structured Programming with go to Statements</a>]]></string>
+    <string name="fcolName">Favour Composition over Inheritance (FCoI)</string>
+    <string name="fcolWhy">Komposition fördert die lose Kopplung und die Testbarkeit eines Systems und ist oft flexibler.</string>
+    <string name="fcolDescription">Für die Wiederverwendung von Funktionalität kennt die Objektorientierte Programierung (OOP) zwei sehr bekannte Kandidaten: Die Vererbung (whitebox – reuse) und die Komposition (blackbox – reuse). Verwendet man Funktionalität wieder durch das Ableiten von einer Klasse, so ist die Subklasse abhängig von der Elternklasse. Dies macht ein System in vielen Fällen unnötig komplex, schlechter testbar und erschwert das Austauschen von Funktionalität zur Laufzeit. CCD hat für das korrekte Ableiten das Liskov Substitution Prinzip (LSP) bereit, das es dabei zu befolgen gilt.\n
+\n
+Bei der Komposition verwendet eine Klasse eine andere. Verwendet man dazu eine klar definierte Schnittstelle, fördert das die Entkopplung. Auch können verschiedene Implementationen einfach ausgetauscht werden. Bevor man sich also der Liskov Substitution stellt, fordert Favour Composition over Inheritance, sich die Frage zu stellen, ob man der Komposition nicht Vorrang geben kann.\n
+\n
+"<b>Because inheritance exposes a subclass to details of its parent\'s implementation, it\'s often said that \'inheritance breaks encapsulation\'</b>\". (Gang of Four 1995:19)</string>
+
+    <!-- scout -->
+    <string name="scoutName">Die Pfadfinderregel beachten</string>
+    <string name="scoutWhy">Jede Beschäftigung mit einem Gegenstand macht ihn zumindest ein klein wenig besser. Ganz ohne bürokratische Planung. Fundament und Graswurzelansatz für mehr Qualität.</string>
+    <string name="scoutInfos"><![CDATA[<a href="http://de.wikipedia.org/wiki/Broken-Windows-Theorie">Broken Windows Theorie</a>]]></string>
+    <string name="scoutDescription">Das Clean Code Developer Wertesystem lässt sich nicht mit einem Mal etablieren. Dafür braucht es Zeit. Vor allem, da ein Clean Code Developer selten auf einer grünen Wiese und auch noch allein arbeitet, ist es schwer, die Prinzipien auf eine gesamte Codebasis anzuwenden. Wir glauben daher, dass es wichtig ist, sich nicht zu hohe Ziele zu setzen. Viel realistischer und motivierender ist es, nur kleine Fortschritte anzustreben – dafür aber kontinuierliche.\n
+\n
+Zum Fundament des Clean Code Development gehört deshalb für uns die Pfadfinderregel. Sie findet sich auch in Clean Code und lautet: <b>Hinterlasse einen Ort immer in einem besseren Zustand als du ihn vorgefunden hast</b>.\n
+\n
+Auf die Softwareentwicklung angewandt bedeutet das: Clean Code Developer hinterlassen Code immer in einem \"besseren Zustand\" als sie ihn vorgefunden haben. Nach getaner Arbeit stimmt der Code also mit dem Clean Code Development Wertesystem mehr überein als vorher.\n
+\n
+Was ein Clean Code Developer an ihm dafür getan hat, ist situations-/codeabhängig - und wird natürlich auch durch den Grad bestimmt, an dem er arbeitet. Im roten Grad achtet ein Clean Code Developer z.B. darauf, dass Code, der noch nicht im Repository der Versionsverwaltung war, nun auch dort abgelegt ist. Und er achtet darauf, dass Wiederholungen jeder Art – also Verletzungen des DRY-Prinzips – \"ausgebügelt\" werden.\n
+\n
+Wo ein Clean Code Developer Suboptimalitäten im Sinne des CCD-Wertesystems feststellt, bemüht er sich also stetig darum, sie zu verbessern. In kleinen Schritten. Und natürlich bemüht er sich, Suboptimalitäten von vornherein zu vermeiden. Wie gesagt: immer auf der Stufe seiner Entwicklung.\n
+\n
+Diese Maxime steht am Anfang der Entwicklung des Clean Code Developers eingedenk der Broken Windows Theorie. Nach ihr beginnt der Verfall von Qualität im allgemeinen Sinn mit Kleinigkeiten, die nur lange genug unbeachtet bleiben.\n
+\n
+Wenn Clean Code Developer jedoch nach der Pfadfinderregel arbeiten, kommt es gar nicht erst zu \"Broken Windows\" – vorhandene werden eines nach dem anderen repariert. \"Risse und Unebenheiten\" im Code schließt die Pfadfinderregel konsequent auf der Basis des CCD-Wertesystems, sodass sich keine weiteren \"Ablagerungen\" ansammeln können. Sie wirkt damit proaktiv einer Code-Erosion entgegen. Das halten wir für so fundamental, dass wir sie in den roten Grad aufgenommen haben.</string>
+
+    <!-- root cause analysis -->
+    <string name="rcaName">Root Cause Analysis</string>
+    <string name="rcaWhy">Symptome behandeln bringt vielleicht schnell eine Linderung – langfristig kostet es aber mehr Aufwand. Wer stattdessen unter die Oberfläche von Problemen schaut, arbeitet am Ende effizenter.</string>
+    <string name="rcaDescription">Regel vom ersten Tag als Clean Code Developer an sollte sein, bei Problemen immer intensiv nach der wahren Wurzel des Übels zu suchen. Clean Code Developer geben sich nicht mit einer Symptomkur zufrieden. Beispiel: Die Sortierung von Daten im Speicher ist zu langsam. Eine oberflächliche Kur würde jetzt daran gehen, einzelne Anweisungen oder Anweisungsblöcke zu beschleunigen. Vielleicht wird der Einsatz von unsafe Code probiert, vielleicht eine Parallelisierung. Eine nähere Problemanalyse jedoch hätte ergeben, dass ein suboptimaler Algorithmus die Wurzel des Übels ist. Schwer verständliche Optimierungen auf niedriger Abstraktionsebene können also vermieden werden. Ein besserer Algorithmus ist die saubere Lösung.\n
+\n
+Wurzelproblemanalyse ist also ein Dienst an der Verständlichkeit und am Aufwand. Denn bei Kenntnis des Wurzelproblems ist die Bereinigung meist weniger aufwändig als eine Symptomkur. Stößt der Clean Code Developer auf ein Problem, so hält er also als erstes inne, um sich eine Chance zu geben, hinter die Symptome zu schauen.\n
+\n
+Die Root Cause Analysis ist auch unter dem Begriff Five Why\'s bekannt. Dieser Begriff stammt aus der Terminologie des Toyota Produktions Systems (TPS). Die Grundidee: frage mindestens fünf mal \"Warum?\".</string>
+
+    <!-- version control -->
+    <string name="vcsName">Ein Versionskontrollsystem einsetzen</string>
+    <string name="vcsWhy">Angst vor Beschädigung eines \"running system\" lähmt die Softwareentwicklung. Mit einer Versionsverwaltung ist solche Angst unbegründet. Die Entwicklung kann schnell und mutig voranschreiten.</string>
+    <string name="vcsDescription">Unabdingbare Voraussetzung für jeden Clean Code Developer ist es, seinen Code unter den Schutz eines Versionskontrollsystems zu stellen. Ob das Mercurial, Git, Subversion, VSS, TFS oder Vault ist, spielt dabei keine Rolle. Wir meinen nur, dass heute keine Arbeit an Code mehr durchgeführt werden sollte, ohne ihn in einem Versionskontrollsystem zu pflegen. Der Grund dafür ist ganz simpel: Ein Versionskontrollsystem befreit von Angst. Und Angstfreiheit ist nötig, um mutig die Prinzipien und Praktiken des CCD-Wertesystems umzusetzen.\n
+\n
+Ein Versionskontrollsystem nimmt die Angst, etwas falsch und damit kaputt zu machen. Wenn Code in ihm gehalten wird, kann jeder CCD den Code nach Belieben verändern, ohne befürchten zu müssen, einen erreichten Stand zu zerstören. Nichts geht verloren. Das Versionskontrollsystem ist wie eine Zeitmaschine für Code.\n
+\n
+Damit ist ein Versionskontrollsystem die allerbeste Grundlage für alles Lernen. Denn Lernen bedeutet Fehler machen. Mit einem Versionkontrollsystem als Sicherheitsnetz können wir uns alle Fehler erlauben. Deshalb: Erste Voraussetzung für den Einstieg ins Clean Code Development ist der ständige Gebrauch eines Versionskontrollsystems.\n
+\n
+Wo das im Projekt nicht möglich ist, sehen wir das Fundament für Clean Code Development abwesend. Wir würden auch nicht verstehen, warum der Einsatz eines Versionskontrollwerkzeuges nicht möglich sein sollte. Kosten müssen dafür nicht anfallen und der Einarbeitungsaufwand in die einfachsten Funktionen ist minimal. CCD schreibt ja keine bestimmte Nutzung eines Versionskontrollsystems vor, sondern nur, dass eines benutzt werden muss.</string>
+
+    <!-- simple refactoring -->
+    <string name="simpleRefactoringName">Einfache Refaktorisierungsmuster anwenden</string>
+    <string name="simpleRefactoringWhy">Code verbessern ist leichter, wenn man typische Verbesserungshandgriffe kennt. Ihre Anwendungsszenarien machen sensibel für Schwachpunkte im eigenen Code. Als anerkannte Muster stärken sie den Mut, sie anzuwenden.</string>
+    <string name="simpleRefactoringDescription">Um Code immer ein wenig besser zu hinterlassen, als man ihn vorgefunden hat, sind mehr oder weniger große Eingriffe nötig. Die kann ein Clean Code Developer dank des Versionskontrollsystems angstfrei vornehmen. Doch wie macht er sich die Arbeit möglichst einfach?\n
+\n
+Das Schlüsselwort lautet \"Refaktorisierung\". Martin Fowler hat das Refaktorisieren/Refactoring in seinem gleichnamigen Buch als grundlegende Technik zur Erhöhung der Codequalität beschrieben. Er definiert darin eine Anzahl von Codeveränderungsmustern, um \"code smells\", d.h. suboptimale Strukturen oder allgemeiner Missachtungen von Prinzipien, zu bereinigen.\n
+\n
+Für den roten Grad ist darin vor allem die Refaktorisierung Methode extrahieren relevant, um dem DRY-Prinzip zu genügen. Die wenden Clean Code Developer an, um mehrfach vorkommenden Code in eine Methode zu extrahieren, die statt seiner an den Wiederholungsorten aufgerufen wird.\n
+\n
+Als zweite Refaktorisierung sollte bei der Arbeit am roten Grad das Umbenennen wo nötig eingesetzt werden. Sie passt zur Pfadfinderregel, denn eine oft anzutreffende \"Unsauberkeit\" im Quellcode sind kryptische Namen.\n
+\n
+Refaktorisierungen können von Hand angewandt werden, doch es gibt auch Werkzeugunterstützung. Moderne IDEs wie Visual Studio bieten einige Refactoringmuster, weitere Tools listet unsere Werkzeugliste.\n
+\n
+\"Refactoring\" wie \"Clean Code\" gehören zur Pflichtlektüre jedes Clean Code Developers ab dem roten Grad. </string>
+    <string name="simpleRefactoringInfos">
+<![CDATA[<ul>
+<li><a href="http://www.amazon.de/Refactoring-Studentenausgabe-vorhandener-verbessern-Programmers/dp/3827322782">Refaktorisieren/Refactoring</a></li>
+<li><a href="http://martinfowler.com/refactoring/catalog/extractMethod.html">Methoden extrahieren</a></li>
+<li><a href="http://martinfowler.com/refactoring/catalog/renameMethod.html">Methoden umbenennen</a></li>
+</ul>]]>
+    </string>
+
+    <!-- Reflexion -->
+
+    <string name="reflexionName">Täglich reflektieren</string>
+    <string name="reflexionWhy">Keine Verbesserung, kein Fortschritt, kein Lernen ohne Reflexion. Aber nur, wenn Reflexion auch eingeplant wird, findet sie unter dem Druck des Tagesgeschäftes auch statt.</string>
+    <string name="reflexionDescription">Im Zentrum von CCD steht die persönliche Entwicklung. Es geht also um Veränderung: Mit jedem Tag soll sich das CCD-Wertesystem ein klein wenig mehr im Projektalltag des Clean Code Developers manifestieren. Das ist die Pfadfinderregel des Clean Code Developers auf sich selbst angewandt.\n
+\n
+So ein Veränderungsweg geht sich allerdings gerade allein nicht leicht. Wie also auf Kurs bleiben? Wie Fortschritt messen?\n
+\n
+Ohne ein \"Kontrollsystem\" etablieren zu wollen, glauben wir, dass dazu zweierlei gehört:
+Kleinschrittige Planung
+Reflexion nach jedem Schritt\n
+\n
+Unabhängig von Vorgaben durch eine Projektleitung sollten Clean Code Developer ihre Arbeit so einteilen, dass sie aus Aufgaben besteht, die an einem Arbeitstag zu bewältigen sind. Nur so kann am Abend jedes Tages eine Bilanz gezogen werden. Das halten wir für wichtig, um jeden Tag die Arbeit nicht mit in den Feierabend zu tragen. Da hat sie nichts zu suchen; der dient der Entspannung.\n
+\n
+Durch solche kleinen Planungsschritte wird der Arbeitsalltag allerdings nicht nur befriedigender, weil sich jeden Tag über Erfolg oder Misserfolg entscheiden lässt. Die schiere Möglichkeit der Entscheidung am Abend – Habe ich alle meine Aufgaben erledigt? Wie habe ich meine Aufgaben erledigt? – erlaubt auch die Reflexion über die Einhaltung des Clean Code Developer Wertesystems.\n
+\n
+Um sich konsequent zu einem Clean Code Developer zu entwickeln, soll der Entwickler sich auf jedem Grad nach jedem Arbeitstag darüber Rechenschaft ablegen, ob er alle für ihn nach Grad relevanten Aspekte des Wertesystems berücksichtigt hat. Für den roten Grad bedeutet das z.B. Fragen wie: Verwalte ich wirklich alle Codefragmente im Versionskontrollsystem? Habe ich das DRY-Prinzip konsequent angewandt? Habe ich ganz allgemein Code in einem besseren Zustand hinterlassen als vorgefunden?\n
+\n
+Wenn er auf eine dieser Fragen nur zögerlich mit Ja oder gar mit einem Nein antworten muss, dann ist das natürlich kein Beinbruch. Bei allem Bemühen klappt es eben nicht immer, dass man den guten Willen auch in die Tat umsetzen kann.\n
+\n
+Dennoch oder gerade deshalb ist dann allerdings Folgendes zu tun:
+Entweder bessert der Clean Code Developer jetzt solange nach, bis er in Bezug auf seines Tages Arbeit keine Prinzipienverletzung mehr wahrnimmt.
+Oder er nimmt die erkannten Prinzipienverletzungen für den nächsten Tag auf seinen Aufgabenzettel.\n
+\n
+Eine Hilfe bei der Reflexion kann das Clean Code Developer Armband sein. Uns ist bewusst, dass es nicht jedermanns Sache ist, ein buntes Silikonarmband zu tragen. Wer damit kein Problem hat, kann das Armband im Rahmen der persönlichen Reflexion nutzen. Kann oder will der Clean Code Developer die Prinzipienverletzung nicht bereinigen oder auf seinen Arbeitszettel nehmen, sollte er das Armband, das er trägt, vom einen auf den anderen Arm wechseln. So macht er deutlich, dass er eine Differenz zwischen dem Soll seines Grades und dem Geschafften anerkennt. Das ist nicht als Niederlage misszuverstehen oder gar als \"Buße\". Es geht vielmehr um eine haptische Unterstützung des Lernvorgangs.\n
+\n
+Wenn ein Clean Code Developer 21 Tage lang nach getaner Arbeit das Armband nicht mehr wechseln musste, kann er zur Arbeit am nächsten Grad übergehen. Für den roten Grad ist das der orange Grad.</string>
+
+    <!-- Orange Grade -->
+    <string name="orangeGradeName">Oranger Grad</string>
+
+    <!-- Single Level of Abstraction -->
+    <string name="slaName">Single Level of Abstraction (SLA)</string>
+    <string name="slaWhy">Die Einhaltung eines Abstraktionsniveaus fördert die Lesbarkeit.</string>
+    <string name="slaDescription">Eine Codezeile kann auf verschiedenen Abstraktionsniveaus liegen. Die Zuweisung eines Wertes an eine Variable liegt auf einem niedrigeren Abstraktionsniveau als etwa ein Methodenaufruf. Schließlich kann sich hinter dem Methodenaufruf weit mehr Logik befinden als in der Zuweisung einer Variable. Selbst Methodenaufrufe können auf unterschiedlichen Abstraktionsniveaus stehen. Der Aufruf einer Methode aus einem Framework steht auf einem anderen Niveau, als der Aufruf einer Methode der Anwendung.\n
+\n
+Damit Code gut zu lesen und zu verstehen ist, sollte in einer Methode nur ein Abstraktionsniveau verwendet werden. Andernfalls fällt es dem Leser schwer, Essentielles von Details zu unterscheiden. Wenn Bitpfriemeleien erforderlich sind, sollten diese nicht mit dem Aufruf von Methoden vermischt werden.\n
+\n
+Hilfreich als Analogie ist der Blick auf Artikel in der Tageszeitung: dort steht zu oberst das Allerwichtigste, die Überschrift. Aus ihr sollte in groben Zügen hervorgehen, wovon der Artikel handelt. Im ersten Satz des Artikels wird dies auf einem hohen Abstraktionsniveau beschrieben. Je weiter man im Artikel fortschreitet, desto mehr Details tauchen auf. So können wir auch unseren Code strukturieren. Der Name der Klasse ist die Überschrift. Dann folgen die öffentlichen Methoden auf hohem Abstraktionsniveau. Diese rufen möglicherweise Methoden auf niedrigerem Niveau auf, bis zuletzt die \"Bitpfriemelmethoden\" übrig bleiben. Durch diese Einteilung kann ich als Leser der Klasse entscheiden, welchen Detaillierungsgrad ich mir ansehen möchte. Interessiert mich nur grob, wie die Klasse arbeitet, brauche ich mir nur die öffentlichen Methoden anzuschauen. In ihnen wird die Funktionalität auf einem hohen Abstraktionsniveau gelöst. Interessieren mich weitere Details, kann ich tiefer einsteigen und mir die privaten Methoden ansehen.</string>
+
+    <!-- Single Responsibility Principle -->
+    <string name="srpName">Single Responsibility Principle (SRP)</string>
+    <string name="srpWhy">Fokus erleichtert das Verständnis. Eine Klasse mit genau einer Aufgabe ist verständlicher als ein Gemischtwarenladen.</string>
+    <string name="srpDescription">Das Single Responsibility Principle (SRP) ist eines der SOLID Prinzipien. Es lautet: Eine Klasse sollte nur eine Verantwortlichkeit haben.\n
+\n
+Hintergrund des Single Responsibility Principle ist die Überlegung, dass Änderungen oder Erweiterungen der Funktionalität einer Anwendung sich auf wenige Klassen beschränken sollen. Je mehr Klassen angepasst werden müssen, desto größer ist das Risiko, dass sich durch die erforderlichen Änderungen Probleme an Stellen ergeben, die im Kern nichts mit der Erweiterung zu tun haben. Eine Verletzung des Single Responsibility Principle führt zu Kopplung und damit zu erhöhter Komplexität, es wird schwieriger den Code zu verstehen.</string>
+
+    <!-- Separation of Concerns -->
+    <string name="socName">Separation of Concerns (SoC)</string>
+    <string name="socWhy">Wenn eine Codeeinheit keine klare Aufgabe hat ist es schwer sie zu verstehen, sie anzuwenden und sie ggf. zu korrigieren oder zu erweitern.</string>
+    <string name="socDescription">Übersetzt mit Trennung der Belange bedeutet dieses Prinzip, dass man nicht mehrere Belange in einer Klasse zusammenfassen soll. Was sind Belange? Belange sind \"komplett verschiedene\" Zwecke. Man sagt auch, Belange seien orthogonal zu einander und vor allem orthogonal zur Hauptfunktionalität einer Funktionseinheit. Beispiele für typische Belange sind: Tracing, Logging, Transaktionalität, Caching. Diese Belange sollen nach dem Prinzip der Separation of Concerns in spezialisierte Funktionseinheiten ausgelagert werden.\n
+\n
+Das Separation of Concerns Prinzip hängt eng mit dem Single Responsibility Prinzip zusammen. Dabei sind Concerns eine Übermenge von Responsibilities. Jede Responsibility besteht im Idealfall aus genau einem Concern, nämlich ihrer Kernfunktionalität. Oft sind in einer Responsibility jedoch mehrere Concerns vermischt. Da sich dies technisch meist nicht ganz vermeiden läßt, besagt das Prinzip nicht etwa, dass eine Responsibility nur aus einem Concern bestehen darf, sondern dass die Concerns getrennt sein sollten. Innerhalb einer Methode sollte beispielsweise klar erkennbar sein, dass es mehrere Concerns gibt. Ferner sollten die Concerns nicht irgendwie über die Methode verstreut sein, sondern so gruppiert, dass klar ist, was zu einem Concern gehört.\n
+\n
+Im Domain Driven Design versucht man beispielsweise die Business Domain von der Infrastruktur strikt zu trennen. So darf dort eine Klasse aus der Business Domain keinerlei Infrastruktur, etwa für Datenbankzugriffe, enthalten, sondern soll ausschließlich die Geschäftslogik abbilden. Persistenz ist ein \"Concern\" der nichts mit der Business Logik zu tun hat. Separation of Concerns führt zu loser Kopplung und hoher Kohäsion. Die einzelnen Komponenten sind jeweils auf eine Aufgabe, einen Concern, fokussiert und dadurch leicht verständlich. Alle Teile aus denen die Komponente besteht, sind auf diese eine Aufgabe ausgerichtet, dadurch hängen die Teile eng zusammen (hohe Kohäsion). Separation of Concerns führt darüber hinaus auch zu gut testbaren Komponenten. Denn wenn der Zweck einer Codeeinheit fokussiert ist, muss weniger breit getestet werden. In Bezug auf die zu testende Codeeinheit sind weniger Testparameterkombinationen zu prüfen. Soll die Trennung der Belange konsequent betrieben werden, muss die Objektorientierung um das Konzept der Aspektorientierten Programmierung (AOP) erweitert werden. Dadurch wird es möglich, Aspekte wie etwa Transaktionalität, Tracing oder Caching vollständig aus einer Methode herauszuziehen.</string>
+
+    <!-- Code Conventions -->
+    <string name="codeConventionsName">Source Code Konventionen</string>
+    <string name="codeConventionsWhy">Code wird häufiger gelesen als geschrieben. Daher sind Konventionen wichtig, die ein schnelles Lesen und Erfassen des Codes unterstützen.</string>
+    <string name="codeConventionsDescription">Wir betrachten die folgenden Aspekte als wichtig:\n
+\t- Namensregeln\n
+\t- Richtig Kommentieren\n
+\n
+Damit wollen wir nicht zum Ausdruck bringen, dass andere Konventionen unwichtig sind, wir wollen nur mit diesen beiden beginnen, weil sie uns elementar erscheinen. Bei allen Code Konventionen ist uns nämlich eines ganz wichtig: es geht weniger um die konkrete Ausgestaltung, sondern um konsequentes Einhalten der Konvention. Und es geht um das Bewusstsein, dass Konventionen notwendig sind.</string>
+    <string name="codeConventionsNamesName">Namensregeln</string>
+    <string name="codeConventionsNamesWhy">Ohne Namensregeln muss man sich wieder und wieder auf den Stil einzelner Entwickler einstimmen.</string>
+    <string name="codeConventionsNamesDescription">Namensregeln sollen den Leser des Codes dabei unterstützen den Code zu verstehen. Da es z.B. hilfreich ist, Felder von lokalen Variablen zu unterscheiden, könnte dies durch eine Namensregel unterstützt werden. Wie eine solche Konvention im Einzelfall aussieht ist Geschmacksache. Manche bevorzugen \"this.xyz\" andere \"_xyz\". Welche Variante man wählt ist uns nicht wichtig. Uns kommt es darauf an, dass die Konvention konsequent eingehalten wird. Die Notwendigkeit einer Namensregel für z.B. Felder hängt ferner vom Kontext ab. In einer Klasse mit 400 Zeilen wäre uns eine Namensregel, die Felder gegenüber Variablen hervorhebt, sehr wichtig, in überschaubaren Klassen tritt sie dagegen eher in den Hintergrund. Mit Hilfe der Root Cause Analysis geht der Clean Code Developer der eigentlichen Ursache für die Notwendigkeit einer Namensregel auf den Grund.</string>
+    <string name="codeConventionsCommentsName">Kommentare</string>
+    <string name="codeConventionsCommentsWhy">Unnötige oder gar falsche Kommentare halten beim Lesen auf. Der Code sollte so klar und deutlich sein, dass er möglichst ohne Kommentare auskommt.</string>
+    <string name="codeConventionsCommentsDescription">Salopp gesagt ist ein Kommentar im Code ein Hinweis darauf, dass der Code noch verbessert werden kann. Typisch für solche Fälle sind 3 Zeilen Code, die mit einem Kommentar überschrieben sind. An der Stelle hilft es wahrscheinlich, die drei Zeilen als Methode zu extrahieren (Refactoring: Extract Method) und den Kommentar als Name der Methode zu verwenden. Ganz allgemein kann der Bedarf an Kommentaren reduziert werden, in dem man gute Namen verwendet für Variablen, Methoden, Klassen, etc.\n
+\n
+Statt\n
+\tint laenge; // in mm\n
+besser\n
+\tint laengeInMM; \n
+\n
+Statt\n
+\tpublic double Preis() {\n
+\t\t// Berechnet den Bruttopreis …\n
+\t}\n
+besser\n
+\tpublic Money BruttoPreis() {\n
+\t\t...\n
+\t}\n
+\n
+Kommentiert werden sollte nicht was man tut, sondern, wenn überhaupt, wieso man etwas tut.</string>
+
+    <!-- Issue Tracking -->
+    <string name="issueTrackingName">Issue Tracking</string>
+    <string name="issueTrackingWhy">Nur, was man aufschreibt, vergisst man nicht und kann man effektiv delegieren und verfolgen.</string>
+    <string name="issueTrackingDescription">Eine strukturierte Verwaltung aller \"Issues\" ist schon deshalb erforderlich, damit nichts verloren geht. Und nur wenn ein Überblick über alle offenen Punkte möglich ist, können die Punkte priorisiert und in eine Reihenfolge gebracht werden. Dazu bedarf es nicht zwangsläufig ausgeklügelter Tools, ein Board mit Pappkarten kann den Zweck auch erfüllen. Vor allem sollte hier nicht das Tool im Vordergrund stehen, sondern die Tätigkeit.</string>
+
+    <!-- Automatic Integrationstests -->
+    <string name="automaticIntegrationTestsName">Automatische Integrationstests</string>
+    <string name="automaticIntegrationTestsWhy">Integrationstests stellen sicher dass der Code tut was er soll. Diese wiederkehrende Tätigkeit nicht zu automatisieren wäre Zeitverschwendung.</string>
+    <string name="automaticIntegrationTestsDescription">Die fundamentale Voraussetzung für jegliche Änderungen am Code haben wir bereits im roten Grad durch den Einsatz eines Versionskontrollsystems gelegt. Wir können ohne Sorge Änderungen am Code vornehmen, ganze Dateien und Verzeichnisse löschen, durch das Versionskontrollsystem ist alles wieder abrufbar.\n
+\n
+Wenn wir nun Änderungen am Code vornehmen, sollten wir uns sicher sein, dass wir dabei nichts kaputt machen. Und diese Sicherheit können wir nur erlangen, wenn wir nach der Änderung testen, ob die Anwendung sich noch so verhält wie zuvor. Diese Tests nach jeder Änderung per Hand durchzuführen wäre nicht praktikabel, wir müssen sie automatisieren. Ein großes Übel der Softwareentwicklung ist die Angst, bei Änderungen am Code etwas zu übersehen, ein Detail nicht zu berücksichtigen, und dadurch einen Fehler zu verursachen in Code der vorher funktionierte. Dabei spielt es in der Regel sogar nicht mal eine Rolle, ob die Änderungen dazu führen sollen, dass der Code verbessert wird (Refaktorisieren) oder zusätzliche Anforderungen umgesetzt werden sollen. Solange wir nach Durchführen einer Änderung nicht sicher sind, dass alles noch so funktioniert wie zuvor, bleibt die Angst. Diese führt dazu, dass wir Code im Zweifelsfall so belassen, wie er ist, denn er funktioniert ja. Notwendige Refaktorisierungen werden unterlassen, aus Angst Fehler zu machen.\n
+\n
+Damit wir uns auch in schon laufenden Projekten (sogenannte <b>Brownfield</b> Projekte, im Gegensatz zu <b>Greenfield</b> \"auf der grünen Wiese\")  dieses Sicherheitsnetz schaffen können, benötigen wir Verfahren, die auf vorhandenen Code angewendet werden können. Dazu eignen sich automatisierte Integrationstests. Sie setzen entweder ganz oben auf der Benutzerschnittstelle auf und testen die Anwendung durch alle Layer oder setzen weiter unten auf. In jedem Fall werden mehrere Funktionseinheiten im Zusammenspiel getestet.\n
+\n
+Bevor wir also Änderungen oder Erweiterungen am Code vornehmen, erstellen wir für die betroffenen Codebereiche Integrationstests. Dabei können Tools und Techniken wie WatiN, UI Automation, etc. verwendet werden. Wünschenswert sind natürlich auch Unit Tests, welche einzelne Funktionseinheiten isoliert testen. Dazu muss der Code allerdings Voraussetzungen erfüllen, die vermutlich nicht immer gegeben sind: der Code muss bereits das <b>Single Responsibility Prinzip</b> berücksichtigen. Andernfalls sind die Abhängigkeiten zwischen den Funktionseinhieten (Komponenten, Klassen oder Methoden) so groß, dass sie nicht isoliert getestet werden können. Das Fernziel ist natürlich eine Codebasis, bei der Unit Tests möglich sind. Mehr noch: wir werden in Zukunft die Tests vor der Implementierung erstellen (<b>Test first</b>)). Aber um durch Refaktorisierungen dorthin zu gelangen, bedarf es erst der Integrationstests, um sicherzustellen, dass die Anwendung sich noch so verhält wie vor der Refaktorisierung.</string>
+
+    <!-- Read Read Read -->
+    <string name="readingName">Lesen, lesen, lesen!</string>
+    <string name="readingWhy">Lesen bildet!</string>
+    <string name="readingDescription">Lesen bildet - wir sind jedenfalls fest davon überzeugt, dass dies auch für Software-Entwickler gilt. Die Softwaretechnik entwickelt sich nach wie vor weiter. Neben den großen Entwicklungsschritten wie Prozedurale Programmierung, Objektorientierte Programmierung, Funktionale Programmierung, Aspektorientierte Programmierung, etc. gibt es ständig Entwicklungen im Kleinen mit denen sich ein professioneller Software-Entwickler auseinandersetzen muss. Da wären zum einen Techniken wie etwa <b>Dependency Injection</b> oder <b>Object Relational Mapper</b>.  Aber auch innerhalb dieser Techniken gibt es Entwicklungsschritte wie etwa <b>Domain Specific Languages (DSLs)</b> zur Konfiguration vs. XML basierende Konfiguration. Neben den technischen Aspekten der Softwareentwicklung wird auch der Prozess ständig weiterentwickelt. So hat sich die Erkenntnis durchgesetzt, dass Wasserfallmodelle nicht funktionieren, verschiedene agile Prozesse werden entwickelt. All dies muss der Clean Code Developer im Blick haben.\n
+\n
+Wir schlagen daher vor, pro Jahr wenigstens 6 Fachbücher zu lesen. Ferner sollten Periodika regelmäßig gelesen werden und darunter verstehen wir neben Fachzeitschriften auch Blogs.</string>
+
+    <!-- Reviews -->
+    <string name="reviewsName">Reviews</string>
+    <string name="reviewsWhy">Vier Augen sehen mehr als zwei. Wenn der eine Entwickler dem anderen seinen Code erklärt, tauchen meist Details auf, die bislang nicht bedacht wurden.</string>
+    <string name="reviewsDescription">Reviews kommen vereinfacht in zwei Spielarten daher: als kontinuierlicher Prozess beim Pair Programming, als eigenständiger Prozessschritt beim Code Review. Das Ziel ist in beiden Fällen das gleiche: der Code soll von einem zweiten Entwickler begutachtet werden. Dies beugt der \"Betriebsblindheit\" vor. Schon die Tatsache dass ein Entwickler seinen Code einem anderen Entwickler vorstellt und beschreibt, führt zu Aha Erlebnissen.\n
+\n
+In der Regel wird erst durch die Diskussion mit anderen Entwicklern deutlich, wo die Stärken und Schwächen einer Codebasis liegen. Gerade der Prozess der ständigen Verbesserung bedingt es, sich mit der Sichtweise anderer Entwickler auseinander zu setzen.\n
+\n
+Selbstverständlich ist nicht nur der Quellcode eine geeignete Basis für Reviews. Sie bieten eine günstige Möglichkeit, die Ergebnisse jeder Entwicklungstätigkeit zu überprüfen, sofern sie in einem \"lesbaren\" Ergebnis münden. Neben rein informellen Reviews, wie dem Pair Programming oder der Begutachtung durch eine zweite Person gibt es auch das formale Review mit einem Reviewprozess sowie entsprechenden Rollen. Weitere bekannte Arten des Review sind z.B. Walkthrough, Technisches Review, Peer Review und Inspektion.\n
+\n
+Reviews ergänzen dynamische Tests, wie z.B. den automatischen Unit-Test oder den automatischen Integrationstest aus dem gelben Grad bzw. orangen Grad. Im Gegensatz zu diesen Tests, sind Reviews auch sehr gut geeignet, Fehler in den Anforderungen zu finden. Auch können sie bereits sehr früh im Entwicklungsprozess eingesetzt und Fehler dadurch auch sehr früh gefunden werden. Und um so früher Fehler gefunden werden, um so günstiger ist auch deren Beseitigung.</string>
+
+    <!-- Yellow Grade -->
+    <string name="yellowGradeName">Gelber Grad</string>
+
+    <!-- Interface Segregation Principle -->
+    <string name="ispName">Interface Segregation Principle (ISP)</string>
+    <string name="ispWhy">Leistungsbeschreibungen, die unabhängig von einer konkreten Erfüllung sind, machen unabhängig.</string>
+    <string name="ispDescription">Das Interface Segregation Principle (ISP) ist ein weiteres SOLID Prinzip. <b>Segregation</b> bedeutet <b>Abtrennung</b>. Das Prinzip besagt, dass ein Client nicht von Details eines Service abhängig sein soll, die er gar nicht benötigt. Je weniger in dessen Interface enthalten ist, desto geringer ist die Kopplung zwischen den beiden Komponenten.\n
+\n
+Stellen wir uns vor, wir müssten einen Stecker planen, mit dem ein Monitor an einen Computer angeschlossen werden soll. Wir entscheiden uns, einfach alle Signale die in einem Computer so anfallen, per Stecker zur Verfügung zu stellen. Der hat dann zwar einige Hundert Pins, aber dafür ist er maximal flexibel. Dummerweise ist damit die Kopplung ebenfalls maximal.\n
+\n
+Beim Beispiel des Steckers ist es offensichtlich, dass eine Monitorverbindung nur jene Signale enthalten soll, die zur Darstellung eines Bildes auf dem Monitor erforderlich sind. Genauso verhält es sich mit Software Interfaces. Auch sie sollten so klein wie möglich sein, um unnötige Kopplung zu vermeiden. Und genau wie beim Monitorstecker sollte das Interface eine hohe Kohäsion haben: Es sollte nur Dinge enthalten, die wirklich eng zusammen gehören.\n
+\n
+Um das Interface Segregation Principle anzuwenden, stehen die beiden Refaktorisierungen <i>Extract Interface</i> und <i>Extract Superclass</i> zur Verfügung.</string>
+
+    <!-- Dependency Inversion Principle -->
+    <string name="dipName">Dependency Inversion Principle</string>
+    <string name="dipWhy">Punktgenaues Testen setzt Isolation von Klassen voraus. Isolation entsteht, wenn Klassen keine Abhängigkeiten von Implementationen mehr enthalten – weder zur Laufzeit, noch zur Übersetzungszeit. Konkrete Abhängigkeiten sollten deshalb so spät wie möglich entschieden werden. Am besten zur Laufzeit.</string>
+    <string name="dipDescription">Auch das Dependency Inversion Principle (DIP) ist ein SOLID Prinzip. Es besagt folgendes:\n
+\t- High-Level Klassen sollen nicht von Low-Level Klassen abhängig sein, sondern beide von Interfaces.\n
+\t- Interfaces sollen nicht von Details abhängig sein, sondern Details von Interfaces.\n
+\n
+Verwendet eine High-Level Klasse eine Low-Level Klasse unmittelbar, so ergibt sich eine starke Kopplung zwischen beiden. Spätestens beim Versuch, die High-Level Klasse isoliert zu testen, wird man auf Schwierigkeiten stoßen. Aus diesem Grund sollte die High-Level Klasse von einem Interface abhängig sein, das wiederum von der Low-Level Klasse implementiert wird. So kann die Low-Level Klasse im Unit Test durch ein <b>Mockup</b> ersetzt werden.\n
+\n
+Um zur Laufzeit die invertierte, abstrakte Abhängigkeit mit einem konkreten Objekt aufzulösen, bieten sich im Prinzip drei Möglichkeiten:\n
+\t- mittels Konstruktorparameter \"per Hand\"\n
+\t- Einsatz eines Inversion of Control Containers (IoC Container) wie etwa Castle Windsor\n
+\t- Dependency Lookup\n
+\n
+Im gelben Grad injizieren wir die Abhängigkeiten zunächst nur über die Parameter der Konstruktoren. Dies ist anfangs die einfachste Lösung und funktioniert mit einer handvoll Klassen ganz gut. Später im grünen Grad nutzen wir einen IoC Container und Dependency Lookup.</string>
+
+    <!-- Liskov Substitution Principle -->
+    <string name="lspName">Liskov Substitution Principle</string>
+    <string name="lspWhy">Wer mit Erben zu tun hat, möchte keine Überraschungen erleben, wenn er mit Erblassern vertraut ist.</string>
+    <string name="lspDescription">Auch das Liskov Substitution Principle (LSP) ist ein SOLID Prinzip. Es besagt, dass Subtypen sich so verhalten müssen wie ihr Basistyp. Dies klingt zunächst banal. Am Beispiel von Exceptions wird deutlich, welche Probleme entstehen, wenn das Prinzip verletzt wird: Löst der Basistyp bei der Ausführung einer Methode keine Exception aus, müssen alle Subtypen sich an diese Regel halten. Löst die Methode eines Subtyps dennoch eine Exception aus, würde dies bei Verwendern, die ein Objekt vom Basistyp erwarten, Probleme verursachen, weil sie nicht darauf vorbereitet sind. Wenn der Basistyp an der Stelle keine Exception auslöst, ist der Verwender nicht darauf eingestellt, Exceptions behandeln zu müssen.\n
+\n
+Allgemeiner kann man das Prinzip auch so ausdrücken, dass ein Subtyp die Funktionalität eines Basistyps lediglich erweitern, aber nicht einschänken darf. Wenn eine Methode im Basistyp auf einem bestimmten Wertebereich definiert ist, darf der Subtyp diesen Wertebereich übernehmen oder auch erweitern, er darf ihn jedoch keinesfall einschränken.\n
+\n
+Aus dem Liskov Substitution Principle ergibt sich ferner die Empfehlung, über Vererbung sehr genau nachzudenken. In den allermeisten Fällen ist die Komposition der Vererbung vorzuziehen (<b>Favor Composition over Inheritance</b>). Bei der Vererbung sollte man in jedem Fall über das Verhalten nachdenken, nicht nur über die Struktur. Statt Vererbung als <b>is-a</b> Relation zu betrachten und dabei nur die (Daten-)Struktur zu bedenken, sollte man besser von einer <b>behaves-as</b> Relation ausgehen und das Verhalten der Klasse berücksichtigen.</string>
+
+    <!-- Principle of Least Astonishment -->
+    <string name="polaName">Principle of Least Astonishment	</string>
+    <string name="polaWhy">Wenn sich eine Komponente überraschenderweise anders verhält als erwartet, wird ihre Anwendung unnötig kompliziert und fehleranfällig.</string>
+    <string name="polaDescription">Softwareentwicklung ist in hohem Maße ein kreativer Prozess. In diesem Prozess ist es wichtig, in den Fluss einzutauchen (engl. Flow). Wenn man diesen Zustand erreicht hat, sprudelt der Code nur so heraus. Jegliche Störung des Flow führt zu Unterbrechungen und letztlich dazu, dass in der zur Verfügung stehenden Zeit nur wenig Code produziert wird bzw. die Qualität des Code nicht optimal ist. Denn nach jeder Unterbrechung muss der Entwickler erst wieder Fahrt aufnehmen und erneut in den Fluss zu kommen. Überraschungen stellen Störungen dar. Sie führen zu Unterbrechungen und Fehlern. Dazu ein Beispiel: Ist die Tastenbelegung in der Entwicklungsumgebung so gewählt, dass eine übliche Tastenkombination wie z.B. Ctrl-C eine völlig andere Bedeutung hat, behindert dies den Entwickler. Ein Entwickler wird sich jedesmal ärgern, wenn er die \"falsche\" Tastenkombination verwendet. Dies behindert kreatives Arbeiten.\n
+\n
+Software sollte überraschungsarm implementiert sein. Wenn eine Abfragemethode namens <b>GetValue()</b> nicht nur einen Wert liefert, sondern gleichzeitig den Zustand des Systems ändert, wird der Entwickler diese Methode im besten Fall meiden, da er mit bösen Überraschungen rechnet. Im ungünstigen Fall fällt ihm dieses merkwürdige Verhalten nicht rechtzeitig auf. (Abfragemethoden die den Zustand ändern, verstoßen gegen das <b>Command Query Separation</b> Prinzip). Die testgetriebene Entwicklung fördert überraschungsarme Schnittstellen, da die Schnittstelle aus der Sichtweise ihrer Verwendung entworfen und implementiert wird.</string>
+
+    <!-- Information Hiding -->
+    <string name="informationHidingName">Information Hiding Principle</string>
+    <string name="informationHidingWhy">Durch das Verbergen von Details in einer Schnittstelle werden die Abhängigkeiten reduziert.</string>
+    <string name="informationHidingDescription">Beim Design einer Schnittstelle sollte man sich fragen, welche Details außen unbedingt sichtbar sein müssen. Mit Schnittstelle sind hier nicht nur Interfaces im objektorientierten Sinne gemeint, sondern auch implizite Schnittstellen. Jede Klasse hat zwangsläufig eine implizite Schnittstelle – sie enthält alle nach außen sichtbaren Details. Je mehr Details von außen sichtbar sind, desto höher ist die Kopplung zwischen der Klasse und ihren Verwendern. Benutzen die Verwender einer Klasse erstmal ein Detail, wird es schwerer, dieses Detail zu verändern. Dies steht der Evolvierbarkeit der Software entgegen.</string>
+
+    <!-- Automatic Unit Tests -->
+    <string name="automaticUnitTestsName">Automatisierte Unit Tests</string>
+    <string name="automaticUnitTestsWhy">Nur automatisierte Tests werden auch wirklich konsequent ausgeführt. Je punktgenauer sie Code testen, desto besser.</string>
+    <string name="automaticUnitTestsDescription">Im orangen Grad haben wir Integrationstests eingeführt, nun geht es um Unit Tests. Im Gegensatz zu Integrationstests wird bei Unit Tests eine einzelne Funktionseinheit (vor allem Klassen, aber auch Methoden oder Komponenten) isoliert getestet. Dazu ist es erforderlich, diese Funktionseinheit von ihren Abhängigkeiten befreien zu können. Sollen Unit Tests im Nachhinein für bestehenden Code ergänzt werden, sind häufig Refaktorisierungen erforderlich. Wir haben durch die Integrationstests die Sicherheit, dass wir dabei keine Fehler einbauen.\n
+\n
+Automatisierte Tests bieten zweifachen Nutzen:\n
+\t- Sie sparen Zeit\n
+\t- Sie nehmen Angst\n
+\n
+Je stärker eine Codebasis in Veränderung begriffen ist, desto eher ist die Zeitersparnis zu spüren. Denn wo Code sich verändert, muss immer wieder Neues und auch Altes (Regressionstests) getestet werden. Da spart Automatisation einfach Zeit. Und je komplexer der Code, desto größer ist die Angstreduktion. Denn wenn komplexer Code verändert werden soll – um Funktionalität hinzuzufügen, ihn zu optimieren oder schlicht zu korrigieren –, da besteht hohe Gefahr, ungewollt Fehler einzuführen. Kleinschrittige automatisierte Tests decken diese jedoch auf, sodass kein Grund zur Angst besteht, zu \"verschlimmbessern\".</string>
+
+    <!-- Mockups -->
+    <string name="mockupsName">Mockups (Testattrappen)</string>
+    <string name="mockupsWhy">Ohne Attrappen keine einfach kontrollierbaren Tests.</string>
+    <string name="mockupsDescription">In der Regel verwenden Komponenten andere Komponenten. Will man eine Komponente isoliert testen, müssen diese Abhängigkeiten abgetrennt werden. Dabei interessiert uns nun ausschließlich die Funktionalität der zu testenden Komponente (<b>System Under Test (SUT)</b>). Und es interessiert uns, wie die Komponente mit den anderen interagiert.\n
+\n
+Beim Isolieren verwenden wir sogenannte Mockups. Diese werden anstelle der echten Komponenten verwendet. So interagiert das System Under Test während der Tests mit gut kontrollierbaren Attrappen statt mit realen Komponenten.\n
+\n
+Die Literatur kennt noch andere Bezeichnungen für Attrappen wie <b>Stub</b>, <b>Dummy</b> oder <b>Fake</b>, die teilweise synonym zu Mockup benutzt werden, aber durchaus für unterschiedliche Funktionsweisen stehen. Bevor man ein Mock Framework wie z.B. Rhino Mocks verwendet, sollte man ein Mockup zunächst "per Hand" implementieren. Dies hilft, den Mechanismus zu verstehen.</string>
+
+    <!-- Code Coverage Analyse -->
+    <string name="codeCoverageAnalysisName">Code Coverage Analyse</string>
+    <string name="codeCoverageAnalysisWhy">Traue nur Tests, von denen du weißt, dass sie auch wirklich das Testareal abdecken.</string>
+    <string name="codeCoverageAnalysisDescription">Unit Tests sollten nach Möglichkeit alle Pfade durch unseren Code abdecken. Nur so gewinnen wir das Vertrauen, dass der Code korrekt arbeitet. Um in Erfahrung zu bringen, welche Codebereiche bislang nicht durch Tests abgedeckt sind, bedienen wir uns der <b>Code Coverage Analyse</b>. Diese dient dazu, Bereiche im Code aufzudecken, die noch nicht während der automatisierten Tests ausgeführt werden.\n
+\n
+Unit Tests sollten eigentlich 100% des zu testenden Codes abdecken. Zwar bedeutet das nicht automatisch, dass genügend Tests existieren, doch weniger als 100% Code Coverage zeigen an, dass es noch Taschen von Code gibt, über die überhaupt noch keine Korrektheitsaussage gemacht werden kann. 100% Codeabdeckung sind deshalb immer anzustreben.\n
+\n
+In der Praxis zeigt es sich jedoch, dass 100% Codeabdeckung nicht immer mit unmittelbar vertretbarem Aufwand erreicht werden können. Wie auch sonst im Leben kann die Mühe für die letzten 2,3,4 Prozent überproportional wachsen. Deshalb kann es nach genauer Analyse der Abdeckungslage akzeptabel sein, mit weniger als 100% zufrieden zu sein.\n
+\n
+Unterhalb von 90% ist die Abdeckung dann allerdings so löchrig, dass sie als unprofessionell anzusehen ist. Wer also mit automatischen Tests beginnt, sollte immer auch gleichzeitig die Codeabdeckung messen. Sonst lässt sich keine Aussage über die Qualität der Tests machen.\n
+\n
+Für die Messung der Codeüberdeckung gibt es zwei einfache Kennzahlen, die als C0- und C1-Kennzahlen bezeichnet werden. Die C0-Kennzahl misst die Anweisungsüberdeckung, wogegen die C1-Kennzahl die Entscheidungsüberdeckung bzw. die Zweigüberdeckung misst.\n
+\n
+C0 = (Anzahl der getesteten Anweisungen / Anzahl der gesamten Anweisungen) * 100%\n
+\n
+C1 = (Anzahl der getesteten Entscheidungen bzw. Zweige / Anzahl der gesamten Entscheidungen bzw. Zweige) * 100%\n
+\n
+C1 ist dabei die stärkere Kennzahl, da 100% Entscheidungsüberdeckung bzw. Zweigüberdeckung 100% Anweisungsüberdeckung impliziert. Der Umkehrschluss gilt nicht.\n
+\n
+Der Anweisungsüberdeckungstest sowie der Zweigüberdeckungstest arbeiten auf Basis eines Kontrollflussgraphen, siehe http://de.wikipedia.org/wiki/Kontrollflussgraph, während der Entscheidungsüberdeckungstest direkt auf dem Quellcode basiert. Die Testverfahren Anweisungsüberdeckungstest und Zweigüberdeckungstest sind sehr gut unter http://de.wikipedia.org/wiki/Kontrollflussorientierte_Testverfahren beschrieben.</string>
+
+    <!-- Special Events -->
+    <string name="specialEventsName">Teilnahme an specialEvents</string>
+    <string name="specialEventsWhy">Am besten lernen wir von anderen und in Gemeinschaft.</string>
+    <string name="specialEventsDescription">Um nicht nur \"im eigenen Saft zu schmoren\", ist es wichtig, regelmäßig mit anderen Softwareentwicklern zu diskutieren und Erfahrungen auszutauschen. Um dabei auch über den Tellerrand zu blicken, sollte der Austausch mit Entwicklern außerhalb des eigenen Teams, der täglichen Routine, erfolgen. Gut geeignet sind User Groups, die sich in allen Regionen Deutschlands finden lassen.\n
+\n
+Bei den regionalen User Groups steht der Erfahrungsaustausch im Vordergrund. Der ist wichtig. Je länger der aber innerhalb derselben Gruppe stattfindet, je besser man die Gesprächspartner kennt, desto mehr gleichen sich die Meinungen auch in einer User Group wieder an. Deshalb ist es wichtig, immer wieder auch über diesen Tellerrand hinaus zu schauen. Neues Gedankenfutter und Diskussionen mit ganz anderen Entwicklern bieten dafür überregionale Entwicklerkonferenzen.\n
+\n
+Für Gedankenaustausch und Inspiration sollte ein CCD also drei Ebenen im Blick behalten: das eigene Entwicklerteam, die regionale User Group und die überregionale Konferenz. Jede Ebene hat dabei ihren eigenen Rhythmus: täglich, monatlich, jährlich.</string>
+
+    <!-- Complex Refactoring -->
+    <string name="complexRefactoringName">Komplexe Refaktorierungen</string>
+    <string name="complexRefactoringWhy">Es ist nicht möglich, Code direkt in der ultimativen Form zu schreiben.</string>
+    <string name="complexRefactoringDescription">Bereits im roten Grad sind einfache Refaktorisierungen eingeführt worden. Doch Umbenennen und Methode extrahieren reichen nicht aus, um den Code zu verbessern – oft sind größere Eingriffe erforderlich. Die Einteilung in einfache und komplexe Refaktorisierungen ist sinnvoll, weil komplexe Refaktorisierungen nur mit vorhandenen automatisierten Tests effizient und risikolos zu bewerkstelligen sind. Ohne Tests wäre nach dem Refaktorisieren nicht bekannt, ob der Code immer noch korrekt ist.</string>
+
+    <!-- Green Grade -->
+    <string name="greenGradeName">Grüner Grad</string>
+
+    <!-- Open Closed Principle -->
+    <string name="openClosedPrincipleName">Open Closed Principle</string>
+    <string name="openClosedPrincipleWhy">Weil das Risiko, durch neue Features ein bisher fehlerfreies System zu instabilisieren, so gering wie möglich gehalten werden sollte.</string>
+    <string name="openClosedPrincipleDescription">Das <b>Open Closed Principle</b> (OCP) besagt, dass eine Klasse offen für Erweiterungen sein muss, jedoch geschlossen gegenüber Modifikationen. Es ist ein weiteres der SOLID Prinzipien. Folgendes Codebeispiel soll verdeutlichen, wo das Problem liegt, wenn das Prinzip nicht befolgt wird:\n
+\n
+\n
+public double Preis() {\n
+\t const decimal StammkundenRabatt = 0.95m;\n
+\t switch(kundenart) {\n
+\t\t case Kundenart.Einmalkunde:\n
+\t\t\t return menge * einzelpreis;\n
+\t\t case Kundenart.Stammkunde:\n
+\t\t\t return menge * einzelpreis * StammkundenRabatt;\n
+\t\t default:\n
+\t\t\t throw new ArgumentOutOfRangeException();\n
+\t }\n
+}\n
+\n
+\n
+Das problematische an dieser Form der Implementierung ist, dass die Klasse modifiziert werden muss, wenn eine weitere Art der Preisberechnung erforderlich wird. Die Gefahr dabei ist, dass bei dieser Modifikation Fehler gemacht werden und die bisher schon vorhandenen Funktionen nicht mehr ordnungsgemäß funktionieren. Auch wenn automatisierte Unit Tests und Integrationstests vorhanden sind besteht das Risiko, neue Bugs zu hinterlassen, weil man keine hundertprozentige Testabdeckung erreichen kann. Gesucht ist also generell ein Verfahren, welches die Klasse erweiterbar macht, ohne dass dazu die Klasse selbst modifiziert werden muss. Dies kann z.B. mit Hilfe des <b>Strategy Patterns</b> erreicht werden:\n
+\n
+\n
+public interface IPreisRechner {\n
+\t double Preis(int menge, double einzelpreis);\n
+}\n
+\n
+private IPreisRechner preisRechner;\n
+\n
+public double Preis() {\n
+\t return preisRechner.Preis(menge, einzelpreis);\n
+}\n
+\n
+public class Einmalkunde : IPreisRechner {\n
+\t public double Preis(int menge, double einzelpreis) {\n
+\t\t return menge * einzelpreis;\n
+\t }\n
+}\n
+\n
+public class Stammkunde : IPreisRechner {\n
+\t const decimal StammkundenRabatt = 0.95m;\n
+\t \n
+\t public double Preis(int menge, double einzelpreis) {\n
+\t\t return menge * einzelpreis * StammkundenRabatt;\n
+\t }\n
+}\n
+\n
+\n
+Die konkrete Berechnung des Preises wird über ein Interface in andere Klassen ausgelagert. Dadurch ist es möglich, jederzeit neue Implementierungen des Interfaces zu ergänzen. Damit ist die Klasse offen für Erweiterungen, gleichzeitig aber geschlossen gegenüber Modifikationen. Bestehender Code kann z.B. mit dem Refactoring Replace Conditional with Strategy so umgestaltet werden, dass das Open Closed Principle eingehalten wird.</string>
+
+    <!-- Tell, don´t ask -->
+    <string name="tellDontAskName">Tell, don\'t ask</string>
+    <string name="tellDontAskWhy">Hohe Kohäsion und lose Kopplung sind Tugenden. Öffentliche Zustandsdetails einer Klasse widersprechen dem.</string>
+    <string name="tellDontAskDescription">Etwas provokant formuliert, sollten Klassen keine Property Getter haben. Diese verführen den Verwender einer Klasse dazu, anhand von Werten, die ein Objekt liefert, Entscheidungen zu treffen. Statt also dem Objekt mitzuteilen, was es tun soll, wird es befragt, um dann von außen Betrachtungen über den internen Zustand des Objektes anzustellen.\n
+\n
+Eines der Kernprinzipien der Objektorientierten Programmierung lautet <b>Information Hiding</b> (siehe dazu auch im gelben Grad). Keine Klasse soll Details nach außen tragen, aus denen hervorgeht, wie sie intern implementiert ist. Benötigt eine Klasse für ihre Arbeit einen internen Zustand, wird dieser typischerweise in einem internen Feld abgelegt. Wenn nun dieser Wert auch nach außen sichtbar ist, werden Verwender verleitet, diesen eigentlich internen Zustand des Objektes für eigene Entscheidungen heranzuziehen. Dadurch wird die Klasse schnell zur reinen Datenhaltung degradiert. Eine Implementierung, bei der einem Objekt mitgeteilt wird, was es tun soll, ist in jedem Fall vorzuziehen. Dadurch muss es den Verwender nicht mehr interessieren, wie die Klasse die Aufgabe intern bewerkstelligt.\n
+\n
+Als Ergebnis des Tell don\'t ask Prinzips entstehen Objekte mit Verhalten statt \"dummer\" Datenhaltungsobjekte. Das Zusammenspiel der Objekte ist lose gekoppelt, da die Objekte keine Annahmen über die kollaborierenden Objekte machen müssen. Aber nicht nur das! Wenn Objekte ihren Zustand nicht veröffentlichen, behalten sie die Entscheidungshoheit. Die Kohäsion des entscheidenden Codes wächst damit, weil er an einem Ort zusammengelegt wird.</string>
+
+    <!-- Law of Demeter -->
+    <string name="lawOfDemeterName">Law of Demeter</string>
+    <string name="lawOfDemeterWhy">Abhängigkeiten von Objekten über mehrere Glieder einer Dienstleistungskette hinweg führen zu unschön enger Kopplung.</string>
+    <string name="lawOfDemeterDescription">Beim Law of Demeter geht es darum, das Zusammenspiel von Objekten auf ein gesundes Maß zu beschränken. Man kann es vereinfacht umschreiben mit "Don't talk to strangers". Nach dem Law of Demeter soll eine Methode nur folgende andere Methoden verwenden:\n
+\n
+- Methoden der eigenen Klasse\n
+- Methoden der Parameter\n
+- Methoden assoziierter Klassen\n
+- Methoden selbst erzeugter Objekte\n
+\n
+Allerdings: Es ist zu berücksichtigen, dass ab und zu auch reine Datenhaltungsklassen Sinn ergeben. Auf diese muss man das Law of Demeter natürlich nicht anwenden. Es kann z.B. durchaus sinnvoll sein, die Konfigurationsdaten in mehrere Klassen hierarchisch zu verteilen, so dass sich am Ende folgender Zugriff auf einen Wert ergeben könnte:\n
+\n
+\n
+int margin = config.Pages.Margins.Left;\n
+\n
+\n
+Würde man hier das Law of Demeter anwenden, wäre nur der Zugriff auf config.Pages gestattet.</string>
+
+    <!-- Continuous Integration -->
+    <string name="continousIntegrationName">Continuous Integration</string>
+    <string name="continousIntegrationWhy">Automatisierung und Zentralisierung der Softwareproduktion machen produktiver und reduzieren das Risiko von Fehlern bei der Auslieferung.</string>
+    <string name="continousIntegrationDescription">Oft wird die Integration der Softwarekomponenten zeitlich nach hinten geschoben und erfolgt aufwendig und fehleranfällig "per Hand". Eigentlich sollte die Software aber zu jedem Zeitpunkt vollständig lauffähig sein. Mit Continuous Integration bezeichnet man einen Prozess, der dafür sorgt dass der gesamte Code nach der Übermittlung von Änderungen übersetzt und getestet wird.\n
+\n
+Der Continuous Integration Prozess ist vor allem für Teams wichtig, denn er sorgt dafür, dass nach der Übermittlung von Änderungen der gesamte Code übersetzt und getestet wird, nicht nur der Teil an dem ein Entwickler gerade gearbeitet hat. Die automatisierten Tests sollten von jedem Entwickler ausgeführt werden bevor er Änderungen in die zentrale Versionskontrolle übermittelt. Daran ändert sich durch Continuous Integration nichts. Um sicherzustellen, dass die Tests tatsächlich ausgeführt werden und Fehler frühzeitig erkannt werden, laufen sie in jedem Fall auf dem Continuous Integration Server. Dies entbindet den Entwickler nicht davon die Tests vor dem Commit auszuführen, schließlich behindert fehlerhafter Code der in die Versionskontrolle eingecheckt wurde das gesamte Team, möglicherweise sogar weitere Teams. So sorgt der Continuous Integration Prozess dafür dass teamübergreifend sichergestellt wird dass Fehler so früh wie möglich erkannt werden.\n
+\n
+Für den Continuous Integration Prozess stehen zahlreiche Softwaretools zur Verfügung. Neben dem kontinuierlichen Build und Test, der sofort erfolgt, wenn Änderungen in die Versionskontrolle übertragen werden, können durch Continuous Integration auch länger laufende Prozesse, wie z.B. Datenbanktests, automatisiert werden. Diese werden dann z.B. nur nachts ausgeführt. Im grünen Grad wird lediglich der Build- und Testprozess berücksichtigt. Das kontinuierliche Setup und Deployment der Software folgt erst später im blauen Grad.</string>
+
+    <!-- Statische Codeanalyse (Metriken) -->
+    <string name="staticCodeAnalysisName">Statische Codeanalyse (Metriken)</string>
+    <string name="staticCodeAnalysisWhy">Vertrauen ist gut, Kontrolle ist besser - und je automatischer, desto leichter ist sie.</string>
+    <string name="staticCodeAnalysisDescription">Wie definiert sich eigentlich die Qualität einer Codeeinheit, z.B. einer Klasse oder Komponente? Reicht es, dass sie funktional die Anforderungen des Kunden erfüllt? Reicht es, dass er schnell genug und skalierbar genug ist? Automatische Tests und schließlich Tests durch den Kunden geben darüber ja Auskunft. Ohne solche Anforderungskonformität hat Software natürlich keine relevante Qualität. Wenn sie dem Kunden nicht nützt, erübrigt sich jede weitere Frage.\n
+\n
+Auf der anderen Seite reicht es, entgegen immer noch weit verbreiteter Annahme, allerdings auch nicht, anforderungskonform zu sein. Hohe Qualität ergibt sich nicht allein aus Funktionalität und z.B. Performance. Denn neben den funktionalen und nicht funktionalen Anforderungen gibt es auch noch eine meist unausgesprochene verborgene Anforderung: Kunden wollen auch immer, dass Software nicht nur heute ihre Anforderungen erfüllt, sondern auch noch morgen und übermorgen. Kunden wollen Investitionsschutz durch Evolvierbarkeit.\n
+\n
+Für Kunden ist diese Anforderung meist implizit. Sie glauben, es sei selbstverständlich, dass ein immaterielles Produkt wie Software sich quasi unendlich und auf Knopfdruck an neue Anforderungen anpassen ließe. Auch Führungskräfte, die nicht aus der Softwareentwicklung stammen, glauben das oft. Und sogar Softwareentwickler selbst!\n
+\n
+Größer könnte das Missverständnis über Software jedoch kaum sein. Evolvierbarkeit ist weder selbstverständlich im Sinne eines von jedem Softwareentwickler ohnehin verfolgten Zieles, noch ergibt sie sich durch irgendetwas quasi von selbst. Evolvierbarkeit ist vielmehr harte Arbeit und muss ständig gegen andere Werte abgewogen werden.\n
+\n
+Wenn sonstige Anforderungskonformität sich nun durch (automatisierte) Tests feststellen lässt, wie steht es dann mit der Evolvierbarkeit? Lässt sich die Qualität von Code im Hinblick auf seine (Über)Lebensfähigkeit auch automatisch messen? Zum Teil. Nicht alle Aspekte, die Software evolvierbar machen, sind automatisch prüfbar. Ob zum Beispiel Software offen für Erweiterungen durch ein Add-In-Konzept gehalten wird, ist nicht automatisiert erkennbar.\n
+\n
+Dennoch gibt es Metriken, deren Wert für eine Software sich \"ausrechnen\" lässt. Tools helfen dabei. Diese Tools sollten daher in jedem Softwareprojekt zum Einsatz kommen.\n
+\n
+- Für Legacy Code können die Tools den Status Quo erheben und somit eine Grundlinie definieren, mit der die weitere Entwicklung des Codes (zum Besseren) verglichen werden kann.\n
+- Für neuen Code, der mit Evolvierbarkeit im Blick geplant wurde, zeigt solch statische Codeanalyse, ob er das Ideal der Planung erfüllt.\n
+\n
+CCD sind nicht damit zufrieden, Code nur automatisiert zu testen. Sie haben auch immer ein Auge auf seine Evolvierbarkeit, denn sie wissen, dass Kunden daran genauso interessiert sind - egal, ob sie es explizit gesagt haben oder nicht.</string>
+
+    <!-- Inversion of Control Container -->
+    <string name="iocContainerName">Inversion of Control Container</string>
+    <string name="iocContainerWhy">Nur, was nicht fest verdrahtet ist, kann leichter umkonfiguriert werden.</string>
+    <string name="iocContainerDescription">Bereits im gelben Grad hat der CCD das Dependency Inversion Principle kennengelernt. Dabei wurden die Abhängigkeiten noch "von Hand" aufgelöst. Der nächste logische Schritt besteht nun darin, das Auflösen der Abhängigkeiten zu automatisieren. Dazu stehen zwei Verfahren zur Verfügung:\n
+\n
+- Locator\n
+- Container\n
+\n
+\n
+Beide verwenden einen sogenannten <b>Inversion of Control Container</b> (IoC Container). Vor der Verwendung des Containers müssen die verwendeten Klassen im Container hinterlegt werden. Anschließend kann der Container Instanzen der hinterlegten Klassen liefern. Beim <b>Locator</b> geschieht dies explizit. Dies hat den Vorteil, dass die Abhängigkeiten nicht alle im Konstruktor der Klasse aufgeführt werden müssen. Bei Querschnittsaufgaben wie beispielsweise <b>Logging</b> ist dies ein übliches Vorgehen. In der Regel werden die Abhängigkeiten jedoch als Parameter des Konstruktors aufgeführt. Dies hat den Vorteil dass alle Abhängigkeiten sichtbar sind. Der Container ist damit in der Lage die Abhängigkeiten implizit aufzulösen in dem er rekursiv alle benötigten Objekte über den Container instanziert.\n
+\n
+IoC Container werden wichtig, sobald die Anzahl der Klassen wächst. Wenn man <b>Separation of Concerns</b> beherzigt, entstehen viele kleine Klassen mit überschaubaren Aufgaben. Das Zusammensetzen von Instanzen dieser Klassen wird entsprechend aufwendiger. Genau hier setzt der IoC Container an, er hilft beim Instanziieren und Verbinden der vielen kleinen Objekte.\n
+\n
+Ein weiterer Vorteil von IoC Containern ist die Tatsache, dass der <b>Lebenszyklus</b> eines Objektes per Konfiguration bestimmt werden kann. Soll es zur Laufzeit nur eine einzige Instanz eines Objektes geben (<b>Singleton</b>) kann der Container angewiesen werden, immer ein und dieselbe Instanz zu liefern. Auch andere Lebenszyklen wie z.B. <b>eine Instanz pro Session</b> werden unterstützt.\n
+\n
+Um bei Verwendung eines Locators nicht in Abhängigkeit zu einem bestimmten IoC Container zu geraten, kann der <b>Microsoft Common Service Locator</b> (siehe Tools) verwendet werden. Dieser bietet eine vereinheitlichte Schnittstelle zu den gängigen IoC Containern.\n
+\n
+Zum Verständnis der Mechanik die hinter einem IoC Container steckt, ist es nützlich die Funktionalität einmal selber zu implementieren. Dabei soll kein vollständiger Container implementiert werden sondern lediglich die Grundfunktionen.\n</string>
+
+    <!-- Erfahrung weitergeben -->
+    <string name="shareExperiencesName">Erfahrung weitergeben</string>
+    <string name="shareExperiencesWhy">Wer sein Wissen weitergibt, hilft nicht nur anderen, sondern auch sich selbst.</string>
+    <string name="shareExperiencesDescription">Zu professioneller Arbeit gehört selbstverständlich ein ständig akuelles Wissen. Das bedeutet natürlich nicht, dass irgendjemand alles zum Thema Softwareentwicklung und sei es auch nur auf der .NET-Plattform wissen kann und soll. Aktuelles Wissen bezieht sich auf die eigenen Spezialgebiete - welche das auch immer sein mögen. Bestandteil anderer Grade ist deshalb die Praktik der regelmäßigen Informationsaufnahme über verschiedene Medien.\n
+\n
+Aus mehreren Gründen sollte solche Informationssammlung jedoch nur eine von zwei Seiten der Medaille \"Lernen\" sein. Die andere ist die Informationsweitergabe, die Wissensvermittlung. Zur wahren Professionalität gehört unserer Ansicht nach nicht nur \"Forschung\", sonder auch \"Lehre\". Denn erst mit der \"Lehre\" findet wahre Reflektion und Durchdringung eines Gegenstandes statt.\n
+\n
+Etwas Gehörtes/Gelesenes anwenden, ist eine Sache. Natürlich bemerkt man dabei auch Verständnislücken. Die \"Erforschung\" eines Gegenstandes ist dabei jedoch durch den Einsatzzweck natürlich begrenzt. Wer nur soweit forscht, wie er eine Technologie/Konzept gerade braucht, der taucht nicht unbedingt tief ein.\n
+\n
+Ganz anders ist das hingegen, wenn das Lernen mit dem Vorzeichen des Weitersagens stattfindet. Wer nicht nur für sich, sondern auch immer für andere lernt, der lernt tiefer. Das wird klar, wenn man versucht, (angeblich) Gelerntes anderen zu vermitteln. Wenn man das nicht beim Lernen im Blick hat, tauchen schnell Fragen auf, die man sich selbst nie gestellt hat. Andere haben eben immer ganz andere Blickwinkel.\n
+\n
+Deshalb meinen wir, dass wirklich solide nur lernt, wer sich auch immer wieder dem Lehren, dem Weitersagen, der Wissensvermittlung aussetzt. Nur wer Gelerntes nicht nur anwendet, sondern es mit eigenen Worten für ein Publikum formuliert, bemerkt in dem Prozess, wie tief sein Wissen wirklich ist. Denn wenn sich die Fragezeichen bei den \"Schülern\" häufen, dann stimmt irgendetwas noch nicht.\n
+\n
+Ein reales Publikum ist dafür natürlich am besten. Jeder CCD sollte also möglichst regelmäßig Gelegenheiten suchen, um sein Wissen mündlich weiterzugeben (z.B. bei Veranstaltungen im Kollegenkreis oder User Group Treffen). Unmittelbares Feedback ist ihm dabei gewiss. Alternativ bzw. in Ergänzung taugen aber auch schriftliche Kompetenzäußerungen. Ein Blog ist in 5 Minuten aufgesetzt und Fachzeitschriften suchen ständig nach neuen Autoren. Feedback kommt hier zwar nicht so direkt zurück, dennoch ist die textuelle Ausformulierung von Kenntnissen eine sehr gute Übung.\n
+\n
+Clean Code Developer ab dem grünen Grad lernen daher nicht nur \"passiv\" durch Informationsaufnahme, sondern \"aktiv\" durch Weitergabe ihres Wissens mittels Präsentationen oder Texten. Das mag ungewohnt sein - ungewohnt ist aber auch womöglich Continuous Integration. In jedem Fall ist aktive Wissensvermittlung eine gute Übung zur Vertiefung der eigenen Kompetenzen frei nach dem Motto: \"Tue Gutes und sprich darüber\" ;-)\n
+\n
+Dass das \"Lehren\" auch noch einen Nutzen für die Zuhörer/Leser hat, ist selbstverständlich. Vorteile für andere sind aber nicht so motivierend wie eigene Vorteile. Deshalb betonen wir hier vor allem den Nutzen der Wissensvermittlung für den Clean Code Developer.</string>
+
+    <!-- Messen von Fehlern -->
+    <string name="errorMeasurementName">Messen von Fehlern</string>
+    <string name="errorMeasurementWhy">Nur wer weiß, wie viele Fehler auftreten, kann sein Vorgehen so verändern, dass die Fehlerrate sinkt.</string>
+    <string name="errorMeasurementDescription">Während der Softwareentwicklung passieren Fehler. Die passieren in allen Phasen: falsch verstandene oder unklar formulierte Anforderungen führen zu Fehlern genauso wie fehlerhafte Implementierungen. Am Ende ist alles ein Fehler, was dazu führt, dass der Kunde eine Software erhält, die nicht seinen Anforderungen entspricht. Iteratives Vorgehen und Reflexion sind zwei Bausteine, die dazu dienen, den Prozess zu verbessern. Um jedoch zu erkennen, ob tatsächlich eine Verbesserung eintritt, muss eine Messgröße vorliegen, an der man eine Entwicklung zum Besseren überhaupt ablesen kann.\n
+\n
+Das Messen der Fehler kann durch Zählen oder durch Zeitnahme erfolgen. Dabei steht nicht die Präzision im Vordergrund, solange die Messmethode vergleichbare Daten liefert. Die Entwicklungstendenz über mehrere Iterationen hinweg soll ersichtlich werden. Ferner geht es nicht darum, die Verantwortlichkeit für einen Fehler zu klären. Am Ende ist es egal, wer den Fehler verursacht hat, so lange das Team daraus lernt und seinen Prozess verbessert.\n
+\n
+Welche Fehler sind zu messen? Es sind nicht die Fehler, die während der Entwicklung auftreten. Die sind nicht zu vermeiden und führen hoffentlich dahin, dass am Ende einer Iteration ein fehlerfreies Produkt ausgeliefert wird. Vielmehr geht es um die Fehler, die nach einer Iteration zurückgemeldet werden vom Kunden bzw. seinem Stellvertreter (z.B. Productowner oder Support). Das sind Fehler, die die Umsetzung neuer Anforderungen behindern. Zu messende Fehler sind also die, die auftreten, wenn man glaubt, dass es sie nicht geben dürfte ;-) Wann im Prozess ein Team diesen Punkt erreicht und flucht, weil da wieder so ein Fehler der sonstigen Arbeit dazwischenfunkt, ist teamindividuell zu bestimmen.</string>
+
+    <!-- Blue Grade -->
+    <string name="blueGradeName">Blauer Grad</string>
+
+    <!-- Entwurf und Implementation überlappen nicht -->
+
+    <string name="designAndImplementationName">Entwurf und Implementation überlappen nicht</string>
+    <string name="designAndImplementationWhy">Planungsunterlagen, die mit der Umsetzung nichts mehr gemein haben, schaden mehr, als dass sie nützen. Deshalb nicht die Planung aufgeben, sondern die Chance auf Inkonsistenz minimieren.</string>
+    <string name="designAndImplementationDescription">Eines der grundlegenden Probleme der Softwareentwicklung sind Implementationen, denen ein vorausgegangene Planung nicht mehr anzusehen ist. Da hängen dann Entwurfsdiagramme an der Wand, die kaum noch etwas mit der Coderealität zu tun haben. Die Ursache dafür ist eine Verletzung des fundamentalen DRY-Prinzips: Entwurf und Implementation sind Wiederholungen desselben, der Struktur einer Software. Da Implementation auf Entwurf folgt und den Löwenanteil der Arbeit ausmacht, geraten beide schnell aus dem Tritt, wenn Strukturänderungen während der Implementation nicht immer wieder in den Entwurf eingearbeitet werden. Entwurfsdiagramme sind nach Beginn der Implementation sonst bald nichts mehr wert.\n
+\n
+Wie kann die Situation verbessert werden? Sollte vielleicht auf Entwurf verzichtet werden, wenn letztlich in der Implementation die \"Strukturwahrheit\" liegt? Nein, sicher nicht. Entwurf muss sein. Ohne Planung gibt es keine Zielvorstellung. Aber Entwurf und Implementation müssen dem DRY-Prinzip gerecht werden. Deshalb sollten Entwurf und Implementation sich so wenig überlappen wie möglich. Ihre Schnittstelle sollte dünn sein. Wenn das der Fall ist, stellen sie keine Wiederholungen mehr dar, sondern beschreiben unterschiedliches. Das bedeutet: Entwurf/Architektur kümmert sich nicht um die Implementation und Implementation kümmert sich nicht um Architektur.\n
+\n
+Und wo verläuft diese Trennlinie? Bei den so genannten Komponenten (s.u. Praktiken). Architekten kümmern sich nicht um den internen Aufbau von Komponenten. Für sie sind es Black Boxes, deren Klassenstruktur nicht architekturrelevant ist. Umgekehrt ist für einen Komponentenimplementierer die Architektur irrelevant. Was er zu implementieren hat, ergibt sich aus den Komponentenkontrakten, die seine Komponente importiert und exportiert. Einen größeren Zusammenhang muss er nicht kennen.\n
+\n
+Die Aufgabe der Architektur ist es mithin, Software in Komponenten zu zerlegen, deren Abhängigkeiten zu definieren und Leistungen in Kontrakten zu beschreiben. Diese Strukturen werden dann auch einzig durch Architekten gepflegt. Und die Aufgabe der Implementation ist es, die von der Architektur definierten Komponenten zu realisieren. Wie sie das tun, ist nicht architekturrelevant. Ihre innere Struktur ist für die Architektur unsichtbar.\n</string>
+
+    <!-- Implementation spiegelt Entwurf -->
+
+    <string name="implementationMirrorsDesignName">Implementation spiegelt Entwurf</string>
+    <string name="implementationMirrorsDesignWhy">Umsetzung, die von der Planung beliebig abweichen kann, führt direkt in die Unwartbarkeit. Umsetzung braucht daher einen durch die Planung vorgegebenen physischen Rahmen.</string>
+    <string name="implementationMirrorsDesignDescription">Architektur und Implementation sollen nicht überlappen, damit sie das DRY-Prinzip nicht verletzten. So werden Inkonsistenzen vermieden, die dadurch entstehen können, dass auf der einen Seite etwas geändert wird, ohne diese Änderung auf der anderen Seite nachzuführen.\n
+\n
+Nichtsdestotrotz macht die Architektur aber ja Aussagen über die Implementation. Nicht ihre Details, aber ihre grundsätzliche Form. Architektur definiert die Strukturelemente und deren Beziehungen innerhalb eines Codesystems. Implementation existiert also bei auch bei Abwesenheit von Überlappungen nicht unabhängig von Architektur, sondern sozusagen in ihr.\n
+\n
+Genau das sollte sich dann aber auch in der Implementation ausdrücken. So wird die leichter verständlich, so kann besser sichergestellt werden, dass die Implementation tatsächlich der Architektur folgt. Die von der Architektur auf verschiedenen Abstraktionsebenen definierten Strukturelemente sollten deshalb nicht in einem großen \"Codetopf\" (z.b. eine große Visual Studio Solution) \"zusammengerührt werden\". Viel besser auch im Sinne hoher Produktivität und einfacher Testbarkeit ist es, die logischen Strukturen der Architektur so physisch wie möglich zu manifestieren.\n
+\n
+\t1.\tDie von der Architektur geplanten Strukturen auf verschiedenen Abstraktionsebenen sollten sich so weitgehend wie möglich in der Codeorganisation widerspiegeln. Das bedeutet zum einen, dass die Architektur als Strukturelemente vor allem physische Codeeinheiten benutzt. Und zum anderen sollen diese Strukturelemente dann aber auch im Quellcode bzw. in der Codeorganisation im Repository klar sichtbar sein.\n
+\t2.\tBei der Arbeit an der Implementation der Strukturelemente und insbesondere innerhalb von Komponenten sollen Architekturänderungen "im Vorbeigehen" unmöglich sein. Wer in bzw. an einem Strukturelement arbeitet, also an einem Teil, darf nicht ad hoc die umliegende Struktur, d.h. das Ganze, ändern können. Nur wenn das gewährleistet ist, wächst die Entropie einer Software nicht unkontrolliert. Das ist wichtig, da das Hauptziel von Architektur ist, die Entropie und damit die Komplexität von Software zu minimieren.\n
+\n
+Planung muss sein. Implementation darf Planung nicht torpedieren. (Wenn auch Erkenntnisse während der Implementation natürlich auf die Planung zurückwirken dürfen.) Deshalb sind Planung und Implementation zu entkoppeln. Und wo das nicht möglich ist, da sollte die Planung mit Mitteln der Implementation arbeiten und die Implementation physisch die Planung widerspiegeln.</string>
+
+    <!-- You Ain´t Gonna Need It (YAGNI) -->
+
+    <string name="yagniName">You Ain\´t Gonna Need It (YAGNI)</string>
+    <string name="yagniWhy">Dinge die niemand braucht, haben keinen Wert. Verschwende an sie also keine Zeit.</string>
+    <string name="yagniDescription">Das YAGNI-Prinzip (<b>You Ain´t Gonna Need It</b>) ist eines der einfachsten in der Softwareentwicklung - und doch wohl das nach dem DRY-Prinzip am häufigsten verletzte Prinzip. Deshalb steht YAGNI nicht nur am Anfang des roten Grads, sondern auch hier gegen Ende des Weges durch das Wertesystem.\n
+\n
+Geschuldet ist die YAGNI-Regel dem in der Softwareentwicklung besonderen Verhältnis von Anforderungsgenauigkeit und Produktmaterialität. Anforderungen sind notorisch ungenau oder wechselnd und das Produkt, in dem sie umgesetzt werden sollen, immateriell. Im Vergleich zum Maschinen- oder Gebäudebau ist das Material also unendlich flexibel und kann sich prinzipiell mit vergleichsweise wenig Aufwand an quasi jede Anforderung anpassen lassen. Hohe Volatiliät bzw. Ungenauigkeit trifft also auf hohe Flexibilität. Das scheint zunächst einmal ideal.\n
+\n
+Die Praxis zeigt jedoch, dass gerade in diesem Verhältnis der Keim des Misserfolges vieler Projekte liegt. Kurzfristig betrachtet, versuchen die Projekte mit dem Naheliegenden auch das Richtige zu tun:\n
+\n
+- Ungenaue Anforderungen werden oft kompensiert durch Produkte, die versuchen, die Ungenauigkeit zu kompensieren. Die Immaterialität von Software wird dazu genutzt, so breit und flexibel zu implementieren, dass auch noch unbekannte oder schwammige Anforderungen quasi schon im vorauseilenden Gehorsam erfüllt werden.\n
+- Ständig wechselnde Anforderungen werden im Produkt möglichst schnell nachgeführt, weil das dank seiner Immaterialität möglich ist.\n
+\n
+Langfristig ist solches Verhalten allerdings kontraproduktiv:\n
+- Der vorauseilende Gehorsam führt zu Breite und Flexibilität, die nicht wirklich gebraucht werden. Er realisiert Features, die keine Anwendung finden.\n
+- Schnelle Umbauten an Software aufgrund wechselnder Anforderungen führen zu Qualitätserosionen im Code. Software ist zwar immateriell und flexibel - aber nicht jede Softwarestruktur ist evolvierbar oder auch nur verständlich.\n
+\n
+Unklare und wechselnde Anforderungssituationen vor dem Hintergrund der hohen grundsätzlichen Flexibilität von Software führen schnell zu unnötigen Aufwänden und sprödem Code. Eine große Anzahl von Projekten, die ihre Budgetgrenzen gesprengt haben, und eine noch größere Zahl von Projekten, die schon nach wenigen Jahren unwartbar geworden sind, sind dafür beredtes Zeugnis.\n
+\n
+CCD als professionelle Softwareentwickler sehen es als ihre Pflicht, sich solcher Entwicklung jeden Tag entgegen zu stemmen. Angesichts der nicht zu leugnenden Natur von Software - sie ist und bleibt immateriell -, liegt der Ansatz dafür beim Umgang mit den Anforderungen. Das ist der Ursprung der YAGNI-Regel.\n
+\n
+Die YAGNI-Regel ist wie ein scharfes Messer: Wer sie anwendet, schneidet ein Problem in kleine Würfel des unmittelbar Nötigen. Nach der YAGNI-Regel wird nur das unzweifelhaft und unmittelbar Nutzbringende implementiert. Alles andere... nun, das kommt später. Insofern geht YAGNI Hand in Hand mit der Regel \"Entscheide so spät wie möglich\" des Lean Software Development.\n
+\n
+Die YAGNI-Regel ist relevant auf allen Ebenen der Softwareentwicklung und in allen Phasen. Wann immer Sie sich Fragen \"Sollte ich diesen Aufwand wirklich treiben?\" oder \"Brauchen wir das wirklich?\" - und sei es auch nur ganz verschämt und leise im Hinterkopf -, dann ist das ein Anwendungsfall für die YAGNI-Regel. Sie besagt: Wenn im Zweifel, entscheide dich gegen den Aufwand.\n
+\n
+Das klingt leicht, ist aber schwer. Daher auch die häufigen Zuwiderhandlungen. Es gibt viele Kräfte, die der Entscheidung gegen einen Aufwand widersprechen. \"Ach, das ist doch gar nicht soviel Aufwand\" oder \"Wenn wir jetzt nicht vorausschauen, dann können wir in Zukunft nicht mehr anders\" sind nur zwei naheliegende Begründungen für Aufwand, auch wenn Zweifel an seinem Nutzen bestehen. Das betrifft architektonische Entscheidungen (z.B. Soll schon mit einer verteilten Architektur begonnen werden, auch wenn die heutige Last sie noch nicht bräuchte?) wie lokale Entscheidungen (z.B. Soll der Algorithmus schon jetzt optimiert werden, auch wenn er im Augenblick noch keine Performanceprobleme macht?).\n
+\n
+Der Kunde bezahlt nur für unmittelbaren Nutzen. Was er heute nicht klar spezifizieren kann, nutzt ihm nicht. Es in der Implementation voraussehen zu wollen, investiert also Aufwand ohne Nutzen zu generieren. Wenn der Kunde später einmal genauer weiß, was er will, dann - und nicht früher! - ist es Zeit, seinem Willen nachzukommen. Wo immer aber ein Projekt versucht, diesen Willen vorwegzunehmen riskiert es, von der morgigen Willensrealität des Kunden widerlegt zu werden. Ein Feature - funktional oder nicht-funktional -, das heute ohne klare Anforderung implementiert wird, interessiert den Kunden morgen vielleicht schon nicht mehr. Oder es ist ihm nicht mehr so wichtig wie ein anderes Feature.\n
+\n
+Das bedeutet für die Softwareentwicklung:\n
+- Ausschließlich klare Anforderungen implementieren.\n
+- Der Kunde priorisiert seine klaren Anforderungen.\n
+- Die klaren Anforderungen in der Reihenfolge ihrer Priorisierung umsetzen.\n
+- Entwicklungsprozess und Codestruktur im Großen und Kleinen so aufsetzen, dass keine Angst aufkommt, sich ändernde und neue Anforderungen zu realisieren.\n
+\n
+CCD als professionelle Entwickler kommunizieren diese Vorgehensweise unmissverständlich dem Kunden gegenüber. Dadurch werden sie:\n
+- servicewillig, denn sie müssen dem Kunden keine klare Anforderung abschlagen\n
+- verantwortungsbewusst, weil sie das Budget nur für klar formulierten Nutzen einsetzen\n
+- beschützend dem Code gegenüber, weil sie ihn gegen Überladung mit letztlich Unnötigem bewahren\n
+\n
+YAGNI ist deshalb nicht nur eine Regel, die jeder Entwickler befolgen soll, sondern auch eine Regel für Projekte und Teams, also auf Organisationsebene. YAGNI ist immer in Anschlag zu bringen, genauso wie DRY. Wenn im Zweifel, dann verschiebe die Entscheidung falls möglich. Ansonsten entscheide dich gegen den Aufwand. Das entspannt und entschlackt und führt schneller zum Erfolg.</string>
+
+    <!-- Continuous Delivery -->
+    <string name="continousDeliveryName">Continuous Delivery</string>
+    <string name="continousDeliveryWhy">Als Clean Code Developer möchte ich sicher sein, dass ein Setup das Produkt korrekt installiert. Wenn ich das erst beim Kunden herausfinde, ist es zu spät.</string>
+    <string name="continousDeliveryDescription">Im grünen Grad haben wir den Continuous Integration Prozess für Build und Test aufgesetzt. Damit sorgt der Continuous Integration Prozess dafür, dass Fehler während der Build- und Testphase schnell entdeckt werden. Wenn z.B. eine Änderung am Code dazu führt, dass eine andere Komponente nicht mehr übersetzt werden kann, weist der Continuous Integration Prozess kurze Zeit nach dem Commit der Änderung auf den Fehler hin. Wenn am Ende jedoch ein Setup Programm produziert wird, welches sich aufgrund von Fehlern nicht installieren lässt, haben wir unser Ziel trotzdem nicht erreicht: funktionierende Software die bei unseren Kunden installiert werden kann.\n
+\n
+Folglich müssen wir auch die Phasen Setup und Deployment automatisieren, um sie per Knopfdruck ausführen zu können. Nur so können wir sicher sein, dass wir installierbare Software produzieren. Und durch die Automatisierung ist sichergestellt, dass niemand einen wichtigen Schritt, der \"zu Fuß\" ausgeführt werden muss, vergisst. So kann jeder im Team zu jedem Zeitpunkt den aktuellen Stand des Produktes installationsfertig produzieren und installieren.</string>
+
+    <!-- Iterative Entwicklung -->
+    <string name="iterativeDevelopmentName">Iterative Entwicklung</string>
+    <string name="iterativeDevelopmentWhy">Frei nach von Clausewitz: Kein Entwurf, keine Implementation überlebt den Kontakt mit dem Kunden. Softwareentwicklung tut daher gut daran, ihren Kurs korrigieren zu können.</string>
+    <string name="iterativeDevelopmentDescription">Natürlich schreitet Softwareentwicklung immer von einer Planung über die Implementation zu einem Test durch den Kunden voran. Irrig ist allerdings die Annahme, ein Projekt käme mit einer Planungsphase und einer Implementationsphase und einer Kundentestphase aus. Das funktioniert - wenn überhaupt - nur in trivialen Szenarien, wo in der Planungsphase alle Anforderungen bekannt sind. In realen Projekten jedoch liefert jede Phase Erkenntnisse für vorhergehende Phasen. Allemal durch den Kundentest ergeben sich Konsequenzen für die Planung und Implementation.\n
+\n
+Solche Erkenntnisse können allerdings nur Einfluss auf ein Projekt nehmen, wenn das Vorgehen nicht linear ist. Wenn es von einer späteren Phase keinen Weg zurück zu einer früheren Phase gibt, ist Feedback nutzlos.\n
+\n
+Um Feedback in ein Softwareprodukt einfließen lassen zu können, muss der Entwicklungsprozess Schleifen enthalten. Allemal die Schleife von der Kundentestphase zurück zur Planung ist nötig. Das heißt, Softwareentwicklung kann nur iterativ, also in mehreren Durchläufen, über den Anforderungskatalog des Kunden stattfinden. Wer versucht, \"mit einem Mal\" (big bang) auszuliefern, handelt dieser Erkenntnis zuwider. Der Softwareentwicklungsprozes ist vielmehr so zu planen, dass er sich durch die Anforderungen \"in kleinen Happen durchbeißt\". Jeder dieser Happen sollte nicht größer sein, als dass der Durchlauf von Planung bis Kundentest mehr als 2-4 Wochen dauert. Nur dann kommt das Feedback vom Kunden häufig genug, um nicht allzu lange in der Umsetzung in die Irre zu laufen.\n
+\n
+Softwareentwicklung ist damit ein Lernprozess. In seinem Verlauf lernt das Projektteam etwas über die Anforderungen des Kunden. Es hört ihm zu, plant, implementiert, und händigt eine Softwareversion aus, die das Verständnis des Gehörten widerspiegelt. Dann hört das Team wieder zu, plant weiter/erneut nach den aktuellen Erkenntnissen usw. usf. immer im Kreis. Iteration für Iteration. Manchmal wird etwas aus einer früheren Iteration verfeinert, manchmal Neues hinzugefügt.\n
+\n
+Doch nicht nur die Entwicklung einer Software ist ein Lernprozess. Lernen sollte auch auf organisatorischer Ebene stattfinden. Das Team sollte nicht nur über den Kunden etwas lernen, sondern auch über sich selbst. Deshalb sollte es auch immer wieder \"Haltepunkte\" geben, an denen das Team über sein Vorgehen reflektiert. Die Erkenntnisse aus solcher Retrospektive fließen dann ein in die nächste Iteration der organisatorischen Entwicklung. Hier schließt der blaue Grad an den roten Grad an, zu dem die tägliche persönliche Reflexion gehört.\n
+\n
+Natürlich muss jede Iteration auch ein Ende haben. Und damit man weiß ob man fertig ist, muss vorher klar definiert sein, was in der Iteration erreicht werden soll. Die Erreichbarkeit von Zielen kann immer nur geschätzt werden, auch dabei hilft die Reflexion, um die Schätzungen schrittweise soweit zu verbessern, dass sie für die Planung ausreichend genau sind. Doch wann ist das vorher definierte Ziel erreicht? \'What is done?\' Oberstes Ziel ist die Lieferung funktionsfähiger Software an unsere Kunden. Folglich kann das Ziel nur erreicht sein wenn wir auslieferungsfertige Software produziert haben. Das bedeutet insbesondere, dass die Software getestet ist und dass sie per Setup installiert werden kann. Durch Continuous Integration stellen wir dies kontinuierlich sicher. Keinesfalls dürfen wir kurz vor Ende einer Iteration entscheiden, dass ein Ziel erreicht ist, obwohl noch nicht alle Tests abgeschlossen sind.</string>
+
+    <!-- Komponentenorientierung -->
+
+    <string name="componentorientedName">Komponentenorientierung</string>
+    <string name="componentorientedWhy">Software braucht Black-Box-Bausteine, die sich parallel entwickeln und testen lassen. Das fördert Evolvierbarkeit, Produktivität und Korrektheit.</string>
+    <string name="componentorientedDescription">Die Prinzipien des CCD-Wertesystems haben sich bisher vor allem auf kleinere Codeausschnitte bezogen. Was sollte in einer Methode stehen, was sollte über mehrere verteilt werden? Welche Methoden sollte eine Klasse veröffentlichen? Woher sollte ein Client-Objekt zu einem Service-Objekt kommen? Bisher ging es um Prinzipien für die Softwareentwicklung im Kleinen.\n
+\n
+Hat das CCD-Wertesystem denn aber nichts zu größeren Strukturen, zur Softwareentwicklung im Großen zu sagen? Wie steht es mit der Softwarearchitektur? Genau hier setzt das Prinzip der Komponentenorientierung an. Bisher haben wir zwar auch schon das Wort \"Komponente\" gebraucht, doch eher lax und in einem umgangssprachlichen Sinn. Von nun an jedoch soll <b>Komponente</b> etwas sehr spezifisches beschreiben, das wir für grundlegend für evolvierbare Software halten.\n
+\n
+Solange wir Software letztlich nur aus Klassen mit Methoden aufgebaut denken, versuchen wir sozusagen Computer auf Transistorebene zu beschreiben. Das funktioniert letztlich aber nicht, weil wir im Detailreichtum ersticken. Selbst die Klassen in Schichten zusammenzufassen hilft da nicht viel. Wir brauchen vielmehr sowohl ein Beschreibungsmittel für größere Softwarestrukturen. Aber nicht nur das: das Beschreibungsmittel sollte auch ein Implementationsmittel sein - so wie Klassen -, damit das Modell, der Plan, die Beschreibung sich im Code widerspiegelt.\n
+\n
+Betriebssystemprozesse sind zwar solche architektonischen Mittel, letztlich sind auch sie jedoch zu groß. Solange die EXE eines Prozesses einer Applikation aus mehreren Hundert oder Tausend Klassen besteht, gewinnen wir nichts.\n
+\n
+Hilfe bringt allerdings das Prinzip der Komponentenorientierung. Es besagt, dass ein Anwendungsprozess zunächst einmal aus Komponenten besteht und nicht aus Klassen. Erst die Bausteine der Komponenten sind dann Klassen. Und was ist eine Komponente? Es gibt einige Definitionen für Komponenten, von denen im Kern zwei Kriterien unverbrüchlich erscheinen:\n
+- Komponenten sind binäre Funktionseinheiten. (Eine Klasse hingegen ist eine Funktionseinheit auf Quellcodeebene.)\n
+- Die Leistung von Komponenten wird durch einen separaten (!) Kontrakt beschrieben. (Die Leistungsbeschreibung einer Klasse liegt hingegen in ihr. Es ist die Summe ihrer Methodensignaturen.)\n
+\n
+Ein CCD sucht beim Entwurf einer Software nach der Definition der Prozesse also zunächst nach den Komponenten, aus denen die Prozesse bestehen sollten. Er fragt sich, welche \"Dienstleistungsblöcke\" machen die Anwendung aus? Und diese Blöcke sieht der CCD als Black Boxes in Bezug auf ihren Aufbau aus Klassen an. Diese Blöcke sind Assemblies mit wohldefinierter Dienstleistung, aber unbekannter Struktur.\n
+\n
+Eine Client-Komponente C weiß daher nichts über die Klassenstruktur ihrer Service-Komponente S. C kennt nur den Kontrakt von S, der unabhängig von der Implementaton von S ist. Kontrakte sind insofern für Komponenten das, was Interfaces für Klassen sind. Nicht zufällig bestehen Kontrakte zu einem guten Teil oder gar vollständig aus Interfaces.\n
+\n
+Komponenten sind also Elemente der Planung wie auch der Implementation. Um das zu unterstreichen, werden Komponenten physisch unabhängig voneinander implementiert; ein probates Mittel dafür sind <b>Komponentenwerkbänke</b>, d.h. separate Visual Studio Solutions je Komponentenimplementation. Das fördert nicht nur die Konzentration auf eine Aufgabe, weil man während der Arbeit an einer Komponente in der IDE nur deren Code sieht. Darüber hinaus fördert es auch konsequente Unit Tests unter Einsatz von Attrappen, da Quellcode anderer Komponenten nicht sichtbar ist. Außerdem steigert solche Codeorganisation die Produktivität, weil Komponenten dank ihrer separaten Kontrakte parallel implementiert werden können. Und schließlich stellt sich eine physische Isolation gegen den schleichenden Zuwachs an Entropie im Code. Denn wo Bindungen zwischen Komponenten nur via Kontrakt aufgebaut werden können, ist die Kopplung lose und kontrolliert.\n
+\n
+Zur Komponentenorientierung gehören deshalb nicht nur binäre, größere Codeeinheiten mit separaten Kontrakten, sondern auch die Entwicklung der Kontrakte vor der Implementation (<b>Contract-first Design</b>). Denn sobald die Kontrakte definiert sind, die eine Komponente importiert und exportiert, kann die Arbeit an der Komponente unabhängig von allen anderen beginnen.</string>
+
+    <!-- Test first -->
+
+    <string name="testsFirstName">Test first</string>
+    <string name="testsFirstWhy">Der Kunde ist König und bestimmt die Form einer Dienstleistung. Service-Implementationen sind also nur passgenau, wenn sie durch einen Client getrieben werden.</string>
+    <string name="testsFirstDescription">Wenn Komponentenorientierung fordert, die Kontrakte für Komponenten unabhängig von ihrer Implementation zu definieren, stellt sich die Frage, wie das denn geschehen soll. Durch Diskussion am runden Tisch? Das ist sicherlich ein Weg. Ein besserer ist jedoch, Kontrakte nicht erst lange an einer Tafel zu entwerfen, sondern sie sofort in Code zu gießen. Komponentenkontrakte - oder allgemeiner: jede Codeschnittstelle - dient letztlich anderem Code als API. Es ist daher konsequent und effektiv, von diesem Code ausgehend Schnittstellen zu spezifizieren.\n
+\n
+Das ist das Anliegen von Test first. Test first basiert auf dem Gedanken, dass Funktionseinheiten (Methoden, Klassen, usw.) durch Client-Service-Verhältnisse charakterisiert sind. Diese Verhältnisse drehen sich um die Schnittstelle zwischen Client und Service. Und diese Schnittstelle sollte durch den Client bestimmt werden. Der Client ist als Kunde des Service König. Ihm soll der Service dienen, nach ihm soll sich deshalb die Schnittstelle des Service richten.\n
+\n
+Die Definition der Schnittstellen der Codeeinheiten einer Software erfolgt aus diesem Grund von außen nach innen. Außen, an der Benutzeroberfläche, sitzt der ultimative Client, der Anwender. Er definiert die visuelle/haptische Schnittstelle der UI-Codeeinheiten. Die wiederum sind die Clients von darunterliegenden Codeschichten. Die sind dann Clients von tieferliegenden Schichten usw. Die Leistungen und Schnittstellen der tiefsten Codeschichten kann somit nur bestimmt werden, wenn die der darüberliegenden schon bestimmt sind usw.\n
+\n
+Das widerspricht dem häufigen Ansatz der bottom-up Definition von Codeeinheiten. Gern fangen Projekte an, eine Datenzugriffsschicht zu definieren und zu implementieren. Das ist verständlich, weil solch fundamentale Funktionalität doch scheinbar die Voraussetzung für alles weitere ist. Aber dieses Vorgehen ist problematisch, wie viele gescheiterte Projekte zeigen:\n
+- Wer von unten nach oben, von innen nach außen spezifiziert und implementiert, bietet dem Kunden erst sehr spät einen Wert an. Das ist zumindest frustrierend, wenn nicht gar kontraproduktiv.\n
+- Wer bottom-up in der Spezifikation vorgeht, der spezifiziert ohne genaue Anforderungen des ultimativen Clients, des Benutzers. Was er also spezifiziert läuft Gefahr, am Ende zu allgemein und damit unhandlich zu sein - oder schlicht nicht gebraucht zu werden (eine Verletzung der YAGNI-Regel, s.o. und im roten Grad).\n
+- Wer von unten nach oben implementiert, läuft Gefahr, nicht wirklich zu entkoppeln. Denn wenn tiefere Schichten nötig sind, um darüberliegende zu implementieren, dann werden wahrscheinlich keine wirklich isolierten Unit Tests mit Attrappen eingesetzt und auch keine Inversion of Control.\n
+Clean Code Developer vermeiden diese Probleme jedoch. Sie spezifizieren Schnittstelle nicht nur vor den Implementationen (Contract-first, s.o. Komponentenorientierung), sondern auch von außen nach innen und ganz praktisch durch Codierung. Mit den Mitteln des automatisierten Testens ist es nämlich sehr einfach, Schnittstellen in kleinen Schritten in Form von Tests zu definieren.\n
+\n
+Test first fügt dadurch syntaktischen Kontrakten (z.B. Interfaces) eine semantische Seite hinzu. In Ermangelung anderer, formaler Methoden, um Semantik zu spezifizieren, sind Tests der einzige Weg, um Anforderungen zu formalisieren. Wer einem Entwickler eine Komponente zur Implementierung zuweisen will, der tut daher gut daran, nicht nur ihre "Oberfläche" (API) syntaktisch vorzugeben, sondern auch das gewünschte Verhalten in Form von Tests.\n
+\n
+Das hat viele Vorteile:\n
+- Die Form einer Schnittstelle ist unmittelbar Client-getrieben und damit maximal relevant. YAGNI hat keine Chance.\n
+- Die Tests sind nicht nur Tests, sondern auch Spezifikationsdokumentation. Nutzer einer Schnittstelle und Implementierer können sie gleichermaßen studieren. Eine separate Dokumentation erübrigt sich weitgehend. Das tut dem DRY-Prinzip genüge.\n
+- Die Spezifikationen sind nicht nur passive Texte, sondern ausführbarer Code. Wenn dann eine Implementation vorliegt, kann sie gegen diese Tests geprüft werden. Spezifikation und Test sind damit nicht zeitraubend aufeinanderfolgende Phasen. Das erhöht die Produktivität. Qualitätssicherung ist so der Implementation schon vorgeschaltet.</string>
+
+    <!-- Virtues -->
+    <string name="virtuesName">Tugenden</string>
+    <string name="virtuesPrinciples">
+<![CDATA[
+    <h2>1. Schätze Variation (Value Variation (VV))</h2>
+	Werte: Evolvierbarkeit, Kontinuierliche Verbesserung<br />
+    <br />
+    <h2>
+	2. Tue nur das Nötigste (Do Only What´s Neccessary (DOWN))</h2>
+	Werte: Produktionseffizienz, Evolvierbarkeit    <br />
+    <br />
+    <ul>
+        <li>Vorsicht vor Optimierungen!</li>
+        <li>You Ain´t Gonna Need It (YAGNI)</li>
+        <li>Keep it simple, stupid (KISS)</li>
+    </ul>
+    <br />
+    <h2>3. Isoliere Aspekte (Isolate Aspects (IA))</h2>
+	Werte: Evolvierbarkeit    <br />
+    <br />
+    <ul>
+        <li>Don´t Repeat Yourself (DRY)</li>
+        <li>Separation of Concerns (SoC)</li>
+        <li>Single Level of Abstraction (SLA)</li>
+        <li>Single Responsibility Principle (SRP)</li>
+        <li>Entwurf und Implementation überlappen nicht</li>
+    </ul>
+    <br />
+    <h2>4. Minimiere Abhängigkeiten (Minimize Dependencies (MD))</h2>
+	Werte: Evolvierbarkeit    <br />
+    <br />
+    <ul>
+        <li>Dependency Inversion Principle</li>
+        <li>Information Hiding Principle</li>
+        <li>Law of Demeter</li>
+        <li>Open Closed Principle</li>
+        <li>Tell, don´t ask</li>
+        <li>Interface Segregation Principle (ISP)</li>
+    </ul>
+    <br />
+    <h2>5. Halte Versprechen ein (Honor Pledges (HP))</h2>
+	Werte: Evolvierbarkeit    <br />
+    <br />
+	oder auch: Minimize Surprises    <br />
+    <br />
+	<ul>
+        <li>Liskov Substitution Principle</li>
+        <li>Principle of Least Astonishment</li>
+        <li>Implementation spiegelt Entwurf</li>
+        <li>Favour Composition over Inheritance (FCoI)</li>
+    </ul>
+    ]]>
+    </string>
+    <string name="virtuesPractices">
+<![CDATA[
+    Werte: Evolvierbarkeit, Kontinuierliche Verbesserung    <br />
+    <br />
+    <ul>
+        <li>Ein Versionskontrollsystem einsetzen</li>
+        <li>Automatisierte Integrationstests</li>
+        <li>Automatisierte Unit Tests</li>
+        <li>Mockups (Testattrappen)</li>
+        <li>Continuous Integration</li>
+        <li>Inversion of Control Container</li>
+    </ul>
+    <br />
+    <h2>2. Fokussiere (Focus (F))</h2>
+	Werte: Produktionseffizienz    <br />
+    <br />
+    <ul>
+        <li>Komponentenorientierung</li>
+        <li>Test first</li>
+        <li>Limit WIP // neu</li>
+    </ul>
+    <br />
+    <h2>3. Wertschätze Qualität (Value Quality (VQ))</h2>
+	Werte: Produktionseffizienz    <br />
+    <br />
+    <ul>
+        <li>Akzeptiere nur hohe Qualität // neu</li>
+        <li>Automatisierte Unit Tests</li>
+        <li>Reviews</li>
+    </ul>
+    <br />
+    <h2>4. Mach fertig (Get Things Done (GTD))</h2>
+	Werte: Produktionseffizienz    <br />
+    <br />
+    <ul>
+        <li>Iterative Entwicklung</li>
+        <li>Continuous Delivery</li>
+        <li>Limit WIP</li>
+    </ul>
+    <br />
+    <h2>5. Halte Ordnung (Stay Clean (SC))</h2>
+    Werte: Evolvierbarkeit, Korrektheit, Produktionseffizienz    <br />
+    <br />
+    <ul>
+        <li>Die Pfadfinderregel beachten</li>
+        <li>Komplexe Refaktorisierungen</li>
+        <li>Einfache Refaktorisierungsmuster anwenden</li>
+        <li>Statische Codeanalyse (Metriken)</li>
+        <li>Code Coverage Analyse</li>
+        <li>Source Code Konventionen // ehemals Prinzip</li>
+    </ul>
+    <br />
+    <h2>6. Bleib am Ball (Keep Moving (KM))</h2>
+	Werte: Kontinuierliche Verbesserung    <br />
+    <br />
+    <ul>
+        <li>Lesen, Lesen, Lesen</li>
+        <li>Teilnahme an Fachveranstaltungen</li>
+        <li>Erfahrung weitergeben</li>
+        <li>Täglich reflektieren</li>
+        <li>Root Cause Analysis</li>
+        <li>Messen von Fehlern</li>
+        <li>Issue Tracking</li>
+        <li>Regelmäßige Retrospektiven // neu</li>
+    </ul>
+    ]]>
+    </string>
+
+    <!-- evolve -->
+
+    <string name="valueEvolveName">Evolvierbarkeit</string>
+    <string name="valueEvolveDescription">Wir möchten diesen Abschnitt mit einer provokant anmutenden These beginnen:\n<b>Es gibt keine Softwarewartung!</b>\n
+\n
+Wartung ist ein pro-aktiver Vorgang. In Fertigungsanlagen werden regelmäßig Teile getauscht, bevor diese kaputt sind. Sie werden getauscht, weil Erfahrungswerte zeigen, dass die Zuverlässigkeit beim Weiterbetrieb unter einen kritischen Wert sinken würde. Bevor also die ganze Anlage zum Stillstand kommt, werden die kritischen Teile rechtzeitig vorher getauscht. Jeder Autobesitzer weiß, dass er regelmäßig einen Ölwechsel vornehmen lassen muss. Nicht etwa, weil das Öl zu dem Zeitpunkt aufgebraucht wäre, nicht einmal deshalb, weil das Öl zu dem Zeitpunkt bereits völlig wirkungslos wäre. Nein, es wird getauscht, weil Erfahrungswerte des Herstellers zeigen, dass der Motor durch den rechtzeitigen Ölwechsel geschont wird und somit länger hält.\n
+\n
+All das gibt es bei Software nicht. Software ist so, wie sie ist. Meist enthält sie Fehler. Doch auch diese Fehler sind so, wie sie sind. Man kann nichts pro-aktiv unternehmen, um den Zustand der Software zu verbessern.\n
+\n
+Natürlich gibt es beim Betrieb der Software pro-aktive Handlungen. So sollte vielleicht regelmäßig geprüft werden, ob die Logdateien noch ausreichend freien Platz auf der Festplatte lassen, ob eine Datenbank überläuft oder der Speicher sich zunehmend füllt. Aber die Software an sich kann nicht pro-aktiv gewartet werden. Jegliche Änderung oder Erweiterung findet statt, um einen Fehler zu beseitigen oder neue bzw. geänderte Anforderungen umzusetzen.\n
+\n
+Damit Änderungen möglich sind, muss die Software eine innere Struktur haben, die solche Änderungen begünstigt. Dies bezeichnen wir als Evolvierbarkeit. Software wird in der Regel über lange Zeiträume betrieben. Während dieser Zeit ändern sich die Rahmenbedingungen, müssen Features ergänzt werden. Im Idealfall kostet die Implementierung eines Features einen festen Betrag, der unabhängig davon ist, wann das Feature realisiert wird.\n
+\n
+In der Praxis steigt der Preis allerdings für ein Feature, je später es realisiert wird. Am Anfang sind Features preiswert, am Ende ist es gar nicht mehr möglich Features zu ergänzen, weil niemand mehr durchblickt. Die Software wird weggeworfen und neu entwickelt. Bis man an diesem Punkt ankommt, steigen die Kosten exponentiell. Das gemeine an exponentiellem Wachstum sind zwei Dinge: 1.) Anfangs erkennt man kaum, dass die Kosten anwachsen. Die Steigerungen sind moderat. 2.) Wenn man dann erkennt, dass die Kosten steigen, ist es zu spät. Die Steigerung schreitet dann plötzlich so schnell voran, dass ein Gegensteuern nicht mehr möglich ist.\n
+\n
+Je einfacher die Software an geänderte Rahmenbedingungen angepasst werden kann, desto höher ist ihre Evolvierbarkeit. Doch Evolvierbarkeit erhält man nicht nachträglich. Sie muss von vorneherein berücksichtigt werden. Die Software muss darauf ausgelegt sein.\n
+\n
+Dazu ein Beispiel: Klassen sollten genau eine Verantwortlichkeit haben. Ist eine Klasse für mehr als eine Sache zuständig, ist es schwerer sie zu überblicken. Das behindert Änderungen, denn diese bedingen, dass man den Quellcode versteht, der geändert werden soll. Des weiteren steigt die Kopplung zwischen den Klassen. Plötzlich hängt alles mit allem zusammen. Dies kann nur verhindert werden, indem Funktionseinheiten eine klar definierte Verantwortlichkeit haben und man die Kopplung im Blick behält. Hat man in einem Softwaresystem eine Reihe von Klassen angesammelt, die jeweils für mehrere Dinge verantwortlich sind, ist es im Nachhinein nur schwer möglich, diesen Zustand zu beseitigen. Die Kopplung ist so groß, dass es schwer fällt, einzelne Funktionseinheiten heraus zu lösen. Sollen in diesem Dickicht neue Features realisiert werden, ist das sehr aufwändig. Wenn nicht rechtzeitig begonnen wird, das Dickicht zu lichten, wird die Situation mit jedem mal schlimmer. Ab einem gewissen Punkt ist es dann kaum noch möglich, neue Features zu ergänzen. Der Super-GAU der Softwareentwicklung.\n
+\n
+Wir meinen, dass es soweit nicht kommen muss. Berücksichtigt man Evolvierbarkeit von vorne herein, kann Software über lange Zeiträume weiter entwickelt werden. Die Kosten pro Feature mögen dabei im Laufe der Zeit leicht ansteigen. Aber keinesfalls exponentiell!</string>
+
+    <!-- correctness -->
+    <string name="valueCorrectnessName">Korrektheit</string>
+    <string name="valueCorrectnessDescription">Software muss funktional korrekt sein. Ein Buchhaltungsprogramm muss die Buchungen ordnungsgemäß verbuchen, eine Tabellenkalkulation muss richtig rechnen. Und auch die nicht-funktionalen Anforderungen müssen erfüllt sein. Das Programm muss schonend mit Ressourcen wie Speicher, Prozessorzeit, Plattenplatz, etc. umgehen, die Antwortzeiten müssen in einem definierten Rahmen liegen. Erst wenn alle Anforderungen erfüllt sind, ist die erstellte Software korrekt.\n
+\n
+Dass Korrektheit erforderlich ist, wird niemand bestreiten. Doch die Frage ist, was konkret dafür getan wird. Es reicht unserer Ansicht nach nicht aus, Software nach deren Erstellung durch eine Testabteilung zu leiten, deren Aufgabe es ist, Fehler zu finden. Wir meinen, Korrektheit muss bereits während der Entwicklung berücksichtigt werden. Bereits die Entwickler müssen sich mit der Frage der Korrektheit auseinandersetzen. Und damit sie das überhaupt können, muss ihnen klar sein, was die Anforderungen sind. Schon daran mangelt es zu oft. Entwickler werden beauftragt, ein Feature zu implementieren, ohne ihnen präzise zu sagen, was die Abnahmekriterien für das Feature sind. Doch hier geht es nicht darum, Schwarzer Peter zu spielen und einen Schuldigen außerhalb der Entwicklungsabteilungen zu suchen. Schließlich ist es die Aufgabe der Entwickler, bei unklaren Anforderungen nachzufragen, statt in ihre Glaskugel zu schauen.\n
+\n
+Verglichen mit dem Automobilbau steht die Softwareenwicklung beim Thema Korrektheit schlecht da. Ein Auto besteht aus vielen Teilen, deren Korrektheit jeweils einzeln nachgewiesen und überprüft werden kann. Stellen Sie sich vor, Sie müssten zur Fehlersuche mit einem Meßgerät in der Hand auf der Motorhaube des Autos sitzen, um dort verfolgen zu können, was sich in der Maschine abspielt. Mit Tempo 200 auf der Autobahn. Kommt Ihnen komisch vor? Ein Debugger wird in vielen Fällen genau so eingesetzt. Das halten wir für falsch.</string>
+
+    <!-- efficiency -->
+    <string name="valueEfficiencyName">Produktionseffizienz</string>
+    <string name="valueEfficiencyDescription">Am Ende spielen natürlich auch die Entwicklungszeit und der Preis der Software eine Rolle. Und der ist höher, wenn die Produktion der Software nicht effizient erfolgt. Das beginnt bei manuellen Arbeitsschritten, die nicht automatisiert werden und endet bei hohen Fehlerraten die mehrmaliges Nachbessern erfordern. In letzter Konsequenz bedeutet Produktionseffizienz, dass die Software über Jahre oder gar Jahrzehnte weiterentwickelt werden kann, statt irgendwann wieder von vorne beginnen zu müssen. Gleichzeitig reduziert eine hohe Produktionseffizienz die Anfälligkeit für Fehler.\n
+\n
+Die Produktionseffizienz als Wert ist ferner wichtig, um die anderen Werte in ein maßvolles Verhältnis zu setzen. Wer unendlich viel Aufwand für die Korrektheit treibt, macht am Ende auch etwas falsch.\n</string>
+    <!-- reflection -->
+    <string name="valueReflexionName">Reflexion</string>
+    <string name="valueReflexionDescription">Ohne Rückschau ist keine Weiterentwicklung möglich. Nur wer reflektiert, wie er eine Aufgabenstellung gelöst hat, kann feststellen, ob der gewählte Weg einfach oder beschwerlich war. Lernen basiert auf Reflexion.\n
+\n
+In einer jungen Wissenschaft wie der Informatik ist es wichtig, stets neue Erkenntnisse zu berücksichtigen. Dazu ist Reflexion auf allen Ebenen erforderlich. Angefangen beim Reflektieren über die Implementation beim Pair Programming oder Code Review, das tägliche Reflektieren des Teams, die Reflexion nach jeder Iteration, bis hin zur Reflexion der gesamten Branche über ihr Tun. Ohne Reflexion keine Weiterentwicklung.    </string>
+    <string name="mehr_anzeigen">Mehr anzeigen</string>
+    <string name="value_system">Wertesystem</string>
+    <string name="grades">Die Grade</string>
+    <string name="about_grades">Über die Grade</string>
+    <string name="about_Value_system">Über das Wertesystem</string>
+
+</resources>

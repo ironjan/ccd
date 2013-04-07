@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/marginLeftRight"
+        android:paddingRight="@dimen/marginLeftRight" >
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageButton
+                android:id="@+id/btnGradeHelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="?selectableItemBackground"
+                android:contentDescription="@string/about_grades"
+                android:minHeight="48dp"
+                android:minWidth="48dp"
+                android:src="@drawable/ic_action_help_light" />
+
+            <TextView
+                android:id="@+id/txtGradesHeadline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="@string/grades"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </RelativeLayout>
+
+        <include layout="@layout/divider" />
+
+        <include
+            android:id="@+id/inclGradesList"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            layout="@layout/grades_list" />
+
+        <RelativeLayout
+            android:id="@+id/RelativeLasyout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/txtValueSystemHeadling"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="@dimen/marginTop"
+                android:text="@string/value_system"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </RelativeLayout>
+
+        <include layout="@layout/divider" />
+
+        <TextView
+            android:id="@+id/txtValueEvolve"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:text="@string/valueEvolveName" />
+
+        <include layout="@layout/divider" />
+
+        <TextView
+            android:id="@+id/txtValueCorrectnes"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:text="@string/valueCorrectnessName" />
+
+        <include layout="@layout/divider" />
+
+        <TextView
+            android:id="@+id/txtValueEfficiency"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:text="@string/valueCorrectnessName" />
+
+        <include layout="@layout/divider" />
+
+        <TextView
+            android:id="@+id/txtValueReflexion"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="?selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:text="@string/valueReflexionName" />
+
+        <include layout="@layout/divider" />
+    </LinearLayout>
+
+</ScrollView>
