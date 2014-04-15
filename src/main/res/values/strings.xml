@@ -867,4 +867,15 @@ In einer jungen Wissenschaft wie der Informatik ist es wichtig, stets neue Erken
     <string name="about_grades">Über die Grade</string>
     <string name="about_Value_system">Über das Wertesystem</string>
 
+    <string name="aboutTheApp">
+Diese App macht &lt;a href="http://clean-code-developer.de/">clean-code-developer&lt;/a> offline verfügbar. Aufgrund von Zeitmangel wird diese App nur sporadisch weiterentwickelt. Der Quellcode ist auf &lt;a href="https://github.com/ironjan/CCD">github&lt;/a> zu finden. Feedback kann gerne &lt;a href="mailto:lippertsjan@gmail.com?subject=[ccd App]">via Mail&lt;/a> gegeben werden.&lt;br/>
+        &lt;br/>
+        Es werden in der App folgende Open Source Projekte verwendet:&lt;br/>
+        &lt;br/>
+            * &lt;a href="http://actionbarsherlock.com/">actionbarsherlock&lt;/a> (&lt;a href="https://github.com/JakeWharton/ActionBarSherlock/blob/master/LICENSE.txt">Apache 2.0&lt;/a>)&lt;br/>
+            * &lt;a href="http://androidannotations.org/">androidannotations&lt;/a> (&lt;a href="https://github.com/excilys/androidannotations/blob/develop/LICENSE.txt">Apache 2.0&lt;/a>)&lt;br/>
+            * &lt;a href="developer.android.com/tools/support-library/index.html">support-library&lt;/a> (Apache 2.0)&lt;br/>
+        &lt;/ul>
+    </string>
+    <string name="about">Über die App</string>
 </resources>

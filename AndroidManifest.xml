@@ -4,39 +4,47 @@
     <application
         android:icon="@drawable/ic_launcher"
         android:label="@string/appName"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity
             android:name=".CCD_"
-            android:label="@string/appName" >
+            android:label="@string/appName">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".CCD_" />
+                android:value=".CCD_"/>
 
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"/>
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
         <activity
             android:name=".Grades_"
             android:label="@string/appName"
-            android:parentActivityName=".CCD_" />
+            android:parentActivityName=".CCD_"/>
         <activity
             android:name=".SingleGrade_"
             android:label="@string/appName"
-            android:parentActivityName=".CCD_" >
+            android:parentActivityName=".CCD_">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".CCD_" />
+                android:value=".CCD_"/>
         </activity>
         <activity
             android:name=".Value_"
             android:label="@string/appName"
-            android:parentActivityName=".CCD_" >
+            android:parentActivityName=".CCD_">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".CCD_" />
+                android:value=".CCD_"/>
+        </activity>
+        <activity
+            android:name=".About_"
+            android:label="@string/about"
+            android:parentActivityName=".CCD_">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".CCD_"/>
         </activity>
     </application>
 
