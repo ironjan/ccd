@@ -23,3 +23,8 @@ local.properties
 .apt_generated/
 
 project.properties
+.idea/
+.gradle/
+build/
+*.iml
+gradle.properties
