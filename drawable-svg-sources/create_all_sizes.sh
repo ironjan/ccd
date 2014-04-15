@@ -1,5 +1,8 @@
 #!/bin/bash
 RESDIR=../src/main/res
+
+convert -background none -resize 512x512 ic_launcher.svg ic_launcher.png
+
 for i in *png;do 
  convert $i -resize 36x36 $RESDIR/drawable-ldpi/$i; 
  convert $i -resize 48x48 $RESDIR/drawable-mdpi/$i; 
