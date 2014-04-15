@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="three_col_width">390dp</dimen>
+    <dimen name="two_row_heigth">250dp</dimen>
+</resources>
