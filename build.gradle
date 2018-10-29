@@ -34,7 +34,7 @@ def getSourceSetName(variant) {
 
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 28
     buildToolsVersion "19.0.0"
 
     compileOptions {
@@ -62,7 +62,7 @@ android {
         versionName "${versionMajor}.${versionMinor}.${versionPatch}"
 
         minSdkVersion 8
-        targetSdkVersion 19
+        targetSdkVersion 28
 
         packageName "com.github.ironjan.ccd"
     }
