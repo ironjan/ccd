@@ -1,1 +1,0 @@
-Diese App macht das Wiki von http://clean-code-developer.de offline verfügbar.
